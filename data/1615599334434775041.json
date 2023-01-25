@@ -1,0 +1,327 @@
+{
+    "created_at": "Wed Jan 18 06:37:52 +0000 2023",
+    "id": 1615599334434775041,
+    "id_str": "1615599334434775041",
+    "text": "RT @EmekaGift100: Today again we reminded every single member of the European Union Parliament, United states senators, Reps and UK MPs to…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1308877430166257665,
+        "id_str": "1308877430166257665",
+        "name": "IZUNWANNE JOHN",
+        "screen_name": "IzunwanneJohn",
+        "location": null,
+        "url": null,
+        "description": "married with children",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 522,
+        "friends_count": 25,
+        "listed_count": 1,
+        "favourites_count": 56254,
+        "statuses_count": 81154,
+        "created_at": "Wed Sep 23 21:16:11 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1602393272462213141/tTDS8e-B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1602393272462213141/tTDS8e-B_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1308877430166257665/1665867135",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 20:01:25 +0000 2023",
+        "id": 1615439167256682514,
+        "id_str": "1615439167256682514",
+        "text": "Today again we reminded every single member of the European Union Parliament, United states senators, Reps and UK M… https://t.co/q2FTIZrHDH",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1455938622515974146,
+            "id_str": "1455938622515974146",
+            "name": "Emeka Gift Official",
+            "screen_name": "EmekaGift100",
+            "location": null,
+            "url": "http://www.iconsnews.com",
+            "description": "Emeka Gift Is the Founder of Family Writers Press International",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 17544,
+            "friends_count": 356,
+            "listed_count": 19,
+            "favourites_count": 477,
+            "statuses_count": 13968,
+            "created_at": "Wed Nov 03 16:43:59 +0000 2021",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1598398407600734225/auPC-Aag_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1598398407600734225/auPC-Aag_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455938622515974146/1635983245",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Today again we reminded every single member of the European Union Parliament, United states senators, Reps and UK MPs to compel Nigerian government to #FreeNnamdiKanu as Nigeria court of competent jurisdiction ruled. @_AfricanUnion @EU_Commission @elonmusk @netanyahu @StateDept https://t.co/rzK4u6Iz5w",
+            "display_text_range": [
+                0,
+                278
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FreeNnamdiKanu",
+                        "indices": [
+                            151,
+                            166
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "_AfricanUnion",
+                        "name": "African Union",
+                        "id": 145935897,
+                        "id_str": "145935897",
+                        "indices": [
+                            217,
+                            231
+                        ]
+                    },
+                    {
+                        "screen_name": "EU_Commission",
+                        "name": "European Commission 🇪🇺",
+                        "id": 157981564,
+                        "id_str": "157981564",
+                        "indices": [
+                            232,
+                            246
+                        ]
+                    },
+                    {
+                        "screen_name": "elonmusk",
+                        "name": "Elon Musk",
+                        "id": 44196397,
+                        "id_str": "44196397",
+                        "indices": [
+                            247,
+                            256
+                        ]
+                    },
+                    {
+                        "screen_name": "netanyahu",
+                        "name": "Benjamin Netanyahu - בנימין נתניהו",
+                        "id": 17061263,
+                        "id_str": "17061263",
+                        "indices": [
+                            257,
+                            267
+                        ]
+                    },
+                    {
+                        "screen_name": "StateDept",
+                        "name": "Department of State",
+                        "id": 9624742,
+                        "id_str": "9624742",
+                        "indices": [
+                            268,
+                            278
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615436383287402517,
+                        "id_str": "1615436383287402517",
+                        "indices": [
+                            279,
+                            302
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Fmsu1OcWYBUh5-V.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Fmsu1OcWYBUh5-V.jpg",
+                        "url": "https://t.co/rzK4u6Iz5w",
+                        "display_url": "pic.twitter.com/rzK4u6Iz5w",
+                        "expanded_url": "https://twitter.com/EmekaGift100/status/1615439167256682514/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 756,
+                                "h": 1008,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 756,
+                                "h": 1008,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615436383287402517,
+                        "id_str": "1615436383287402517",
+                        "indices": [
+                            279,
+                            302
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Fmsu1OcWYBUh5-V.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Fmsu1OcWYBUh5-V.jpg",
+                        "url": "https://t.co/rzK4u6Iz5w",
+                        "display_url": "pic.twitter.com/rzK4u6Iz5w",
+                        "expanded_url": "https://twitter.com/EmekaGift100/status/1615439167256682514/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 756,
+                                "h": 1008,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 756,
+                                "h": 1008,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 3,
+        "reply_count": 6,
+        "retweet_count": 364,
+        "favorite_count": 184,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/q2FTIZrHDH",
+                    "expanded_url": "https://twitter.com/i/web/status/1615439167256682514",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "EmekaGift100",
+                "name": "Emeka Gift Official",
+                "id": 1455938622515974146,
+                "id_str": "1455938622515974146",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023872370"
+}

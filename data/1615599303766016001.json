@@ -1,0 +1,673 @@
+{
+    "created_at": "Wed Jan 18 06:37:45 +0000 2023",
+    "id": 1615599303766016001,
+    "id_str": "1615599303766016001",
+    "text": "RT @lgbtjinho: mind you the “propaganda” in question is spreading awareness about uyghur muslims being put into concentration camps in china",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 64204383,
+        "id_str": "64204383",
+        "name": "nikkie 🌙 TLOU DAY",
+        "screen_name": "littleblueflwr",
+        "location": null,
+        "url": null,
+        "description": "it/eng | kpop, books and daily shenanigans ✨",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 808,
+        "friends_count": 641,
+        "listed_count": 26,
+        "favourites_count": 76089,
+        "statuses_count": 268076,
+        "created_at": "Sun Aug 09 16:38:11 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1600501959886340096/sOvg3n7g_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1600501959886340096/sOvg3n7g_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/64204383/1600537178",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 18:16:21 +0000 2023",
+        "id": 1615412727991640064,
+        "id_str": "1615412727991640064",
+        "text": "mind you the “propaganda” in question is spreading awareness about uyghur muslims being put into concentration camp… https://t.co/kqVSdTvhcQ",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1131315082678480896,
+            "id_str": "1131315082678480896",
+            "name": "ʚïɞ #various",
+            "screen_name": "lgbtjinho",
+            "location": "ollie 19 eng/esp\nthey / them ⚢ white\nnon ot6 dni ⨾ ssj ♡",
+            "url": null,
+            "description": "dm me to speak on choi yuna | @MILFTRON69",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 2659,
+            "friends_count": 1562,
+            "listed_count": 17,
+            "favourites_count": 65042,
+            "statuses_count": 42790,
+            "created_at": "Wed May 22 21:45:09 +0000 2019",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1575963960544739333/6rbVnbO9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1575963960544739333/6rbVnbO9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1131315082678480896/1654488748",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1614157891216502784,
+        "quoted_status_id_str": "1614157891216502784",
+        "quoted_status": {
+            "created_at": "Sat Jan 14 07:10:05 +0000 2023",
+            "id": 1614157891216502784,
+            "id_str": "1614157891216502784",
+            "text": "Hong Kong singer Jackson Wang in London: “Fucking media propaganda bullshit. If you travel to China one time, you w… https://t.co/W57ZXnv8iD",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 65172298,
+                "id_str": "65172298",
+                "name": "Carl Zha",
+                "screen_name": "CarlZha",
+                "location": null,
+                "url": "https://www.patreon.com/silknsteel",
+                "description": "\"A Chinese influence op\" according to former NYT journo Howard French. I run a podcast about China and Silk Road: history, culture and politics @SteelSilkn",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "verified_type": "blue",
+                "followers_count": 106010,
+                "friends_count": 806,
+                "listed_count": 921,
+                "favourites_count": 114844,
+                "statuses_count": 61390,
+                "created_at": "Wed Aug 12 21:47:47 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1317753108794023939/CW5wFr5T_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317753108794023939/CW5wFr5T_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/65172298/1595093699",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Hong Kong singer Jackson Wang in London: “Fucking media propaganda bullshit. If you travel to China one time, you will feel like, damn, this is an adorable place”   https://t.co/530TG2GIVA",
+                "display_text_range": [
+                    0,
+                    188
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1613824964460969985,
+                            "id_str": "1613824964460969985",
+                            "indices": [
+                                165,
+                                188
+                            ],
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1613824964460969985/pu/img/5OqSAFmq8rGWTHq5.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1613824964460969985/pu/img/5OqSAFmq8rGWTHq5.jpg",
+                            "url": "https://t.co/530TG2GIVA",
+                            "display_url": "pic.twitter.com/530TG2GIVA",
+                            "expanded_url": "https://twitter.com/94puppyx7/status/1613825036909170689/video/1",
+                            "type": "video",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 77460,
+                                "variants": [
+                                    {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1613824964460969985/pu/vid/480x270/oNLX5Z1v-hcziBf6.mp4?tag=12"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1613824964460969985/pu/vid/640x360/Vf4qDGvBR6bU6Irm.mp4?tag=12"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1613824964460969985/pu/pl/SLk4amgXxs9q1xjx.m3u8?tag=12&container=fmp4"
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 640,
+                                    "h": 360,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 640,
+                                    "h": 360,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 640,
+                                    "h": 360,
+                                    "resize": "fit"
+                                }
+                            },
+                            "source_status_id": 1613825036909170689,
+                            "source_status_id_str": "1613825036909170689",
+                            "source_user_id": 1143457065899155458,
+                            "source_user_id_str": "1143457065899155458"
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1613824964460969985,
+                            "id_str": "1613824964460969985",
+                            "indices": [
+                                165,
+                                188
+                            ],
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1613824964460969985/pu/img/5OqSAFmq8rGWTHq5.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1613824964460969985/pu/img/5OqSAFmq8rGWTHq5.jpg",
+                            "url": "https://t.co/530TG2GIVA",
+                            "display_url": "pic.twitter.com/530TG2GIVA",
+                            "expanded_url": "https://twitter.com/94puppyx7/status/1613825036909170689/video/1",
+                            "type": "video",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 77460,
+                                "variants": [
+                                    {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1613824964460969985/pu/vid/480x270/oNLX5Z1v-hcziBf6.mp4?tag=12"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1613824964460969985/pu/vid/640x360/Vf4qDGvBR6bU6Irm.mp4?tag=12"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1613824964460969985/pu/pl/SLk4amgXxs9q1xjx.m3u8?tag=12&container=fmp4"
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 640,
+                                    "h": 360,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 640,
+                                    "h": 360,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 640,
+                                    "h": 360,
+                                    "resize": "fit"
+                                }
+                            },
+                            "source_status_id": 1613825036909170689,
+                            "source_status_id_str": "1613825036909170689",
+                            "source_user_id": 1143457065899155458,
+                            "source_user_id_str": "1143457065899155458"
+                        }
+                    ]
+                }
+            },
+            "quote_count": 9192,
+            "reply_count": 427,
+            "retweet_count": 21846,
+            "favorite_count": 23354,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/W57ZXnv8iD",
+                        "expanded_url": "https://twitter.com/i/web/status/1614157891216502784",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/jzwmQLqoBI",
+            "expanded": "https://twitter.com/CarlZha/status/1614157891216502784",
+            "display": "twitter.com/CarlZha/status…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "mind you the “propaganda” in question is spreading awareness about uyghur muslims being put into concentration camps in china",
+            "display_text_range": [
+                0,
+                125
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 8,
+        "reply_count": 6,
+        "retweet_count": 49,
+        "favorite_count": 369,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/kqVSdTvhcQ",
+                    "expanded_url": "https://twitter.com/i/web/status/1615412727991640064",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1614157891216502784,
+    "quoted_status_id_str": "1614157891216502784",
+    "quoted_status": {
+        "created_at": "Sat Jan 14 07:10:05 +0000 2023",
+        "id": 1614157891216502784,
+        "id_str": "1614157891216502784",
+        "text": "Hong Kong singer Jackson Wang in London: “Fucking media propaganda bullshit. If you travel to China one time, you w… https://t.co/W57ZXnv8iD",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 65172298,
+            "id_str": "65172298",
+            "name": "Carl Zha",
+            "screen_name": "CarlZha",
+            "location": null,
+            "url": "https://www.patreon.com/silknsteel",
+            "description": "\"A Chinese influence op\" according to former NYT journo Howard French. I run a podcast about China and Silk Road: history, culture and politics @SteelSilkn",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 106010,
+            "friends_count": 806,
+            "listed_count": 921,
+            "favourites_count": 114844,
+            "statuses_count": 61390,
+            "created_at": "Wed Aug 12 21:47:47 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1317753108794023939/CW5wFr5T_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317753108794023939/CW5wFr5T_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/65172298/1595093699",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Hong Kong singer Jackson Wang in London: “Fucking media propaganda bullshit. If you travel to China one time, you will feel like, damn, this is an adorable place”   https://t.co/530TG2GIVA",
+            "display_text_range": [
+                0,
+                188
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1613824964460969985,
+                        "id_str": "1613824964460969985",
+                        "indices": [
+                            165,
+                            188
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1613824964460969985/pu/img/5OqSAFmq8rGWTHq5.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1613824964460969985/pu/img/5OqSAFmq8rGWTHq5.jpg",
+                        "url": "https://t.co/530TG2GIVA",
+                        "display_url": "pic.twitter.com/530TG2GIVA",
+                        "expanded_url": "https://twitter.com/94puppyx7/status/1613825036909170689/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 77460,
+                            "variants": [
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1613824964460969985/pu/vid/480x270/oNLX5Z1v-hcziBf6.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1613824964460969985/pu/vid/640x360/Vf4qDGvBR6bU6Irm.mp4?tag=12"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1613824964460969985/pu/pl/SLk4amgXxs9q1xjx.m3u8?tag=12&container=fmp4"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1613825036909170689,
+                        "source_status_id_str": "1613825036909170689",
+                        "source_user_id": 1143457065899155458,
+                        "source_user_id_str": "1143457065899155458"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1613824964460969985,
+                        "id_str": "1613824964460969985",
+                        "indices": [
+                            165,
+                            188
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1613824964460969985/pu/img/5OqSAFmq8rGWTHq5.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1613824964460969985/pu/img/5OqSAFmq8rGWTHq5.jpg",
+                        "url": "https://t.co/530TG2GIVA",
+                        "display_url": "pic.twitter.com/530TG2GIVA",
+                        "expanded_url": "https://twitter.com/94puppyx7/status/1613825036909170689/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 77460,
+                            "variants": [
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1613824964460969985/pu/vid/480x270/oNLX5Z1v-hcziBf6.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1613824964460969985/pu/vid/640x360/Vf4qDGvBR6bU6Irm.mp4?tag=12"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1613824964460969985/pu/pl/SLk4amgXxs9q1xjx.m3u8?tag=12&container=fmp4"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1613825036909170689,
+                        "source_status_id_str": "1613825036909170689",
+                        "source_user_id": 1143457065899155458,
+                        "source_user_id_str": "1143457065899155458"
+                    }
+                ]
+            }
+        },
+        "quote_count": 9192,
+        "reply_count": 427,
+        "retweet_count": 21846,
+        "favorite_count": 23354,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/W57ZXnv8iD",
+                    "expanded_url": "https://twitter.com/i/web/status/1614157891216502784",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/jzwmQLqoBI",
+        "expanded": "https://twitter.com/CarlZha/status/1614157891216502784",
+        "display": "twitter.com/CarlZha/status…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "lgbtjinho",
+                "name": "ʚïɞ #various",
+                "id": 1131315082678480896,
+                "id_str": "1131315082678480896",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023865058"
+}

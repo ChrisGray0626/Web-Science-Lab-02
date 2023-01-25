@@ -1,0 +1,494 @@
+{
+    "created_at": "Wed Jan 18 06:37:44 +0000 2023",
+    "id": 1615599301744361474,
+    "id_str": "1615599301744361474",
+    "text": "RT @Millerstration2: Hi everyone my names Aaron im a 1/1 artist from the UK. I've been here a year now and through out my time here I've cr…",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1434825940840898560,
+        "id_str": "1434825940840898560",
+        "name": "xox // dₑcₑₙₜᵣₐₗᵢzₑd ₘₐₛₜₑᵣₚᵢₑcₑₛ",
+        "screen_name": "xox_xy",
+        "location": "Berlin",
+        "url": null,
+        "description": "Creating, collecting & curating art. // pfp by @nexus_xy",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 4910,
+        "friends_count": 842,
+        "listed_count": 18,
+        "favourites_count": 3984,
+        "statuses_count": 535,
+        "created_at": "Mon Sep 06 10:30:16 +0000 2021",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1615269334569439232/pv-P1Iy1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1615269334569439232/pv-P1Iy1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1434825940840898560/1667257490",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Oct 11 17:01:46 +0000 2022",
+        "id": 1579879946121785351,
+        "id_str": "1579879946121785351",
+        "text": "Hi everyone my names Aaron im a 1/1 artist from the UK. I've been here a year now and through out my time here I've… https://t.co/Q9QzBGLTaU",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1434837292397572106,
+            "id_str": "1434837292397572106",
+            "name": "Aaron.M",
+            "screen_name": "Millerstration2",
+            "location": "England, United Kingdom",
+            "url": null,
+            "description": "colourblind nft/physical artist from the UK. creating art from the mind.\nhttps://linktr.ee/Aaron.m \n\nhttps://oncyber.io/spaces/jdS9GDhw8lEHOapcdfb3",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 4147,
+            "friends_count": 4502,
+            "listed_count": 19,
+            "favourites_count": 31198,
+            "statuses_count": 30964,
+            "created_at": "Mon Sep 06 11:14:12 +0000 2021",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1611422246022545408/25t8uLXf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1611422246022545408/25t8uLXf_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1434837292397572106/1638712578",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Hi everyone my names Aaron im a 1/1 artist from the UK. I've been here a year now and through out my time here I've created over 93 nfts in the style of cubism and abstract. Heres a few pieces from each platform im on.\nOPS, FOUND,KO AND OBJKT. \nhttps://t.co/weXr5QCItM https://t.co/QzxNAUkkgl",
+            "display_text_range": [
+                0,
+                268
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/weXr5QCItM",
+                        "expanded_url": "https://linktr.ee/Aaron.m?utm_source=linktree_profile_share&ltsid=55e7c057-e7f3-4cd4-9075-dfbe3f1b40c7",
+                        "display_url": "linktr.ee/Aaron.m?utm_so…",
+                        "indices": [
+                            245,
+                            268
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1579879878790365185,
+                        "id_str": "1579879878790365185",
+                        "indices": [
+                            269,
+                            292
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FezcYRMWQAETDdd.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FezcYRMWQAETDdd.jpg",
+                        "url": "https://t.co/QzxNAUkkgl",
+                        "display_url": "pic.twitter.com/QzxNAUkkgl",
+                        "expanded_url": "https://twitter.com/Millerstration2/status/1579879946121785351/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1536,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1579879901427109889,
+                        "id_str": "1579879901427109889",
+                        "indices": [
+                            269,
+                            292
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FezcZlhXkAESkLU.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FezcZlhXkAESkLU.jpg",
+                        "url": "https://t.co/QzxNAUkkgl",
+                        "display_url": "pic.twitter.com/QzxNAUkkgl",
+                        "expanded_url": "https://twitter.com/Millerstration2/status/1579879946121785351/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 800,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 453,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1365,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1579879914567831552,
+                        "id_str": "1579879914567831552",
+                        "indices": [
+                            269,
+                            292
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FezcaWeXEAAO44p.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FezcaWeXEAAO44p.jpg",
+                        "url": "https://t.co/QzxNAUkkgl",
+                        "display_url": "pic.twitter.com/QzxNAUkkgl",
+                        "expanded_url": "https://twitter.com/Millerstration2/status/1579879946121785351/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 453,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1365,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 800,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1579879927121428481,
+                        "id_str": "1579879927121428481",
+                        "indices": [
+                            269,
+                            292
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FezcbFPXwAEDmoK.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FezcbFPXwAEDmoK.jpg",
+                        "url": "https://t.co/QzxNAUkkgl",
+                        "display_url": "pic.twitter.com/QzxNAUkkgl",
+                        "expanded_url": "https://twitter.com/Millerstration2/status/1579879946121785351/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 848,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1448,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 481,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1579879878790365185,
+                        "id_str": "1579879878790365185",
+                        "indices": [
+                            269,
+                            292
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FezcYRMWQAETDdd.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FezcYRMWQAETDdd.jpg",
+                        "url": "https://t.co/QzxNAUkkgl",
+                        "display_url": "pic.twitter.com/QzxNAUkkgl",
+                        "expanded_url": "https://twitter.com/Millerstration2/status/1579879946121785351/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1536,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1579879901427109889,
+                        "id_str": "1579879901427109889",
+                        "indices": [
+                            269,
+                            292
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FezcZlhXkAESkLU.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FezcZlhXkAESkLU.jpg",
+                        "url": "https://t.co/QzxNAUkkgl",
+                        "display_url": "pic.twitter.com/QzxNAUkkgl",
+                        "expanded_url": "https://twitter.com/Millerstration2/status/1579879946121785351/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 800,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 453,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1365,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1579879914567831552,
+                        "id_str": "1579879914567831552",
+                        "indices": [
+                            269,
+                            292
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FezcaWeXEAAO44p.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FezcaWeXEAAO44p.jpg",
+                        "url": "https://t.co/QzxNAUkkgl",
+                        "display_url": "pic.twitter.com/QzxNAUkkgl",
+                        "expanded_url": "https://twitter.com/Millerstration2/status/1579879946121785351/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 453,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1365,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 800,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1579879927121428481,
+                        "id_str": "1579879927121428481",
+                        "indices": [
+                            269,
+                            292
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FezcbFPXwAEDmoK.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FezcbFPXwAEDmoK.jpg",
+                        "url": "https://t.co/QzxNAUkkgl",
+                        "display_url": "pic.twitter.com/QzxNAUkkgl",
+                        "expanded_url": "https://twitter.com/Millerstration2/status/1579879946121785351/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 848,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1448,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 481,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 15,
+        "reply_count": 33,
+        "retweet_count": 149,
+        "favorite_count": 334,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Q9QzBGLTaU",
+                    "expanded_url": "https://twitter.com/i/web/status/1579879946121785351",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Millerstration2",
+                "name": "Aaron.M",
+                "id": 1434837292397572106,
+                "id_str": "1434837292397572106",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023864576"
+}

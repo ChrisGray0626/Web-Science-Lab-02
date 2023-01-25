@@ -1,0 +1,703 @@
+{
+    "created_at": "Wed Jan 18 06:37:49 +0000 2023",
+    "id": 1615599323030364160,
+    "id_str": "1615599323030364160",
+    "text": "RT @EmekaGift100: Before turning your war jets on us, compel Nigerian govt to obey court orders and #FreeNnamdiKanu as directed by Nigerian…",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2766958748,
+        "id_str": "2766958748",
+        "name": "mechi mechi",
+        "screen_name": "mechioba",
+        "location": null,
+        "url": null,
+        "description": "Biafra is our last hope",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 1028,
+        "friends_count": 502,
+        "listed_count": 20,
+        "favourites_count": 79526,
+        "statuses_count": 195373,
+        "created_at": "Mon Aug 25 16:43:09 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1598352346567872515/RquOdn-V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1598352346567872515/RquOdn-V_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2766958748/1538863349",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 17:12:48 +0000 2023",
+        "id": 1615396731742453786,
+        "id_str": "1615396731742453786",
+        "text": "Before turning your war jets on us, compel Nigerian govt to obey court orders and #FreeNnamdiKanu as directed by Ni… https://t.co/cQoa6gNJw2",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1455938622515974146,
+            "id_str": "1455938622515974146",
+            "name": "Emeka Gift Official",
+            "screen_name": "EmekaGift100",
+            "location": null,
+            "url": "http://www.iconsnews.com",
+            "description": "Emeka Gift Is the Founder of Family Writers Press International",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 17544,
+            "friends_count": 356,
+            "listed_count": 19,
+            "favourites_count": 477,
+            "statuses_count": 13968,
+            "created_at": "Wed Nov 03 16:43:59 +0000 2021",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1598398407600734225/auPC-Aag_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1598398407600734225/auPC-Aag_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455938622515974146/1635983245",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1615297355003068417,
+        "quoted_status_id_str": "1615297355003068417",
+        "quoted_status": {
+            "created_at": "Tue Jan 17 10:37:54 +0000 2023",
+            "id": 1615297355003068417,
+            "id_str": "1615297355003068417",
+            "text": "We are again alerting the world on the deteriorating health condition of #NnamdiKanu in Solitary confinement. Befor… https://t.co/vLT2ELt6yy",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1455938622515974146,
+                "id_str": "1455938622515974146",
+                "name": "Emeka Gift Official",
+                "screen_name": "EmekaGift100",
+                "location": null,
+                "url": "http://www.iconsnews.com",
+                "description": "Emeka Gift Is the Founder of Family Writers Press International",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "verified_type": "blue",
+                "followers_count": 17544,
+                "friends_count": 356,
+                "listed_count": 19,
+                "favourites_count": 477,
+                "statuses_count": 13968,
+                "created_at": "Wed Nov 03 16:43:59 +0000 2021",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1598398407600734225/auPC-Aag_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1598398407600734225/auPC-Aag_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455938622515974146/1635983245",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "We are again alerting the world on the deteriorating health condition of #NnamdiKanu in Solitary confinement. Before NATO, America, EU &amp; UK will face their guns &amp; sanctions on #Biafra, they should compel Nigerian govt to obey court orders that ruled that Mazi Nnamdi Kanu be freed https://t.co/6fwe0z0taq",
+                "display_text_range": [
+                    0,
+                    288
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "NnamdiKanu",
+                            "indices": [
+                                73,
+                                84
+                            ]
+                        },
+                        {
+                            "text": "Biafra",
+                            "indices": [
+                                184,
+                                191
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1615293633871200256,
+                            "id_str": "1615293633871200256",
+                            "indices": [
+                                289,
+                                312
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FmqtAHbXwAALOj-.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FmqtAHbXwAALOj-.jpg",
+                            "url": "https://t.co/6fwe0z0taq",
+                            "display_url": "pic.twitter.com/6fwe0z0taq",
+                            "expanded_url": "https://twitter.com/EmekaGift100/status/1615297355003068417/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 720,
+                                    "h": 659,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 720,
+                                    "h": 659,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 622,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1615293633871200256,
+                            "id_str": "1615293633871200256",
+                            "indices": [
+                                289,
+                                312
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FmqtAHbXwAALOj-.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FmqtAHbXwAALOj-.jpg",
+                            "url": "https://t.co/6fwe0z0taq",
+                            "display_url": "pic.twitter.com/6fwe0z0taq",
+                            "expanded_url": "https://twitter.com/EmekaGift100/status/1615297355003068417/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 720,
+                                    "h": 659,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 720,
+                                    "h": 659,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 622,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 15,
+            "reply_count": 4,
+            "retweet_count": 493,
+            "favorite_count": 229,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "NnamdiKanu",
+                        "indices": [
+                            73,
+                            84
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/vLT2ELt6yy",
+                        "expanded_url": "https://twitter.com/i/web/status/1615297355003068417",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/1ikO1dLoc3",
+            "expanded": "https://twitter.com/EmekaGift100/status/1615297355003068417?s=20&t=guLQlqbg2oUmi1-WjPE3Zg",
+            "display": "twitter.com/EmekaGift100/s…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Before turning your war jets on us, compel Nigerian govt to obey court orders and #FreeNnamdiKanu as directed by Nigerian Appeal court. \n\nhttps://t.co/1ikO1dLoc3\n\n@RepMoBrooks\n@USRepGaryPalmer\n@RepTerriSewell\n@RepRickCrawford\n@RepFrenchHill\n@rep_stevewomack",
+            "display_text_range": [
+                0,
+                257
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FreeNnamdiKanu",
+                        "indices": [
+                            82,
+                            97
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/1ikO1dLoc3",
+                        "expanded_url": "https://twitter.com/EmekaGift100/status/1615297355003068417?s=20&t=guLQlqbg2oUmi1-WjPE3Zg",
+                        "display_url": "twitter.com/EmekaGift100/s…",
+                        "indices": [
+                            138,
+                            161
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "RepMoBrooks",
+                        "name": "Mo Brooks",
+                        "id": 237299871,
+                        "id_str": "237299871",
+                        "indices": [
+                            163,
+                            175
+                        ]
+                    },
+                    {
+                        "screen_name": "USRepGaryPalmer",
+                        "name": "Gary Palmer",
+                        "id": 2861616083,
+                        "id_str": "2861616083",
+                        "indices": [
+                            176,
+                            192
+                        ]
+                    },
+                    {
+                        "screen_name": "RepTerriSewell",
+                        "name": "Rep. Terri A. Sewell",
+                        "id": 381152398,
+                        "id_str": "381152398",
+                        "indices": [
+                            193,
+                            208
+                        ]
+                    },
+                    {
+                        "screen_name": "RepRickCrawford",
+                        "name": "Rep. Rick Crawford",
+                        "id": 233693291,
+                        "id_str": "233693291",
+                        "indices": [
+                            209,
+                            225
+                        ]
+                    },
+                    {
+                        "screen_name": "RepFrenchHill",
+                        "name": "French Hill",
+                        "id": 2953974395,
+                        "id_str": "2953974395",
+                        "indices": [
+                            226,
+                            240
+                        ]
+                    },
+                    {
+                        "screen_name": "rep_stevewomack",
+                        "name": "Rep. Steve Womack",
+                        "id": 234469322,
+                        "id_str": "234469322",
+                        "indices": [
+                            241,
+                            257
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 79,
+        "favorite_count": 32,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "FreeNnamdiKanu",
+                    "indices": [
+                        82,
+                        97
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/cQoa6gNJw2",
+                    "expanded_url": "https://twitter.com/i/web/status/1615396731742453786",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1615297355003068417,
+    "quoted_status_id_str": "1615297355003068417",
+    "quoted_status": {
+        "created_at": "Tue Jan 17 10:37:54 +0000 2023",
+        "id": 1615297355003068417,
+        "id_str": "1615297355003068417",
+        "text": "We are again alerting the world on the deteriorating health condition of #NnamdiKanu in Solitary confinement. Befor… https://t.co/vLT2ELt6yy",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1455938622515974146,
+            "id_str": "1455938622515974146",
+            "name": "Emeka Gift Official",
+            "screen_name": "EmekaGift100",
+            "location": null,
+            "url": "http://www.iconsnews.com",
+            "description": "Emeka Gift Is the Founder of Family Writers Press International",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 17544,
+            "friends_count": 356,
+            "listed_count": 19,
+            "favourites_count": 477,
+            "statuses_count": 13968,
+            "created_at": "Wed Nov 03 16:43:59 +0000 2021",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1598398407600734225/auPC-Aag_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1598398407600734225/auPC-Aag_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455938622515974146/1635983245",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "We are again alerting the world on the deteriorating health condition of #NnamdiKanu in Solitary confinement. Before NATO, America, EU &amp; UK will face their guns &amp; sanctions on #Biafra, they should compel Nigerian govt to obey court orders that ruled that Mazi Nnamdi Kanu be freed https://t.co/6fwe0z0taq",
+            "display_text_range": [
+                0,
+                288
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "NnamdiKanu",
+                        "indices": [
+                            73,
+                            84
+                        ]
+                    },
+                    {
+                        "text": "Biafra",
+                        "indices": [
+                            184,
+                            191
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615293633871200256,
+                        "id_str": "1615293633871200256",
+                        "indices": [
+                            289,
+                            312
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmqtAHbXwAALOj-.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmqtAHbXwAALOj-.jpg",
+                        "url": "https://t.co/6fwe0z0taq",
+                        "display_url": "pic.twitter.com/6fwe0z0taq",
+                        "expanded_url": "https://twitter.com/EmekaGift100/status/1615297355003068417/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 659,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 720,
+                                "h": 659,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 622,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615293633871200256,
+                        "id_str": "1615293633871200256",
+                        "indices": [
+                            289,
+                            312
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmqtAHbXwAALOj-.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmqtAHbXwAALOj-.jpg",
+                        "url": "https://t.co/6fwe0z0taq",
+                        "display_url": "pic.twitter.com/6fwe0z0taq",
+                        "expanded_url": "https://twitter.com/EmekaGift100/status/1615297355003068417/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 659,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 720,
+                                "h": 659,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 622,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 15,
+        "reply_count": 4,
+        "retweet_count": 493,
+        "favorite_count": 229,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NnamdiKanu",
+                    "indices": [
+                        73,
+                        84
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/vLT2ELt6yy",
+                    "expanded_url": "https://twitter.com/i/web/status/1615297355003068417",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/1ikO1dLoc3",
+        "expanded": "https://twitter.com/EmekaGift100/status/1615297355003068417?s=20&t=guLQlqbg2oUmi1-WjPE3Zg",
+        "display": "twitter.com/EmekaGift100/s…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FreeNnamdiKanu",
+                "indices": [
+                    100,
+                    115
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "EmekaGift100",
+                "name": "Emeka Gift Official",
+                "id": 1455938622515974146,
+                "id_str": "1455938622515974146",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023869651"
+}

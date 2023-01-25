@@ -1,0 +1,139 @@
+{
+    "created_at": "Wed Jan 18 06:37:42 +0000 2023",
+    "id": 1615599294912028672,
+    "id_str": "1615599294912028672",
+    "text": "Until the US Open in 2022 Rafael Nadal had not lost to an American at a major since @jamesblake beat him in New Yor… https://t.co/vllVxYBxvr",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1526127656,
+        "id_str": "1526127656",
+        "name": "Val Febbo",
+        "screen_name": "VFebbo96",
+        "location": "Melbourne, Victoria",
+        "url": "https://itunes.apple.com/au/podcast/break-point/id1320783304",
+        "description": "Journo, host, producer, random stats guy - Digital and Comms Coordinator - 🎙@BreakPointPod, The Right Line, @bowlsaustralia & @VFL - ✍️ @TheFirstServeAU 🏉🎾🐯",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 1288,
+        "friends_count": 997,
+        "listed_count": 33,
+        "favourites_count": 63113,
+        "statuses_count": 32569,
+        "created_at": "Mon Jun 17 23:01:55 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/881861590282260481/0lDCv_UK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/881861590282260481/0lDCv_UK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1526127656/1510296929",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Until the US Open in 2022 Rafael Nadal had not lost to an American at a major since @jamesblake beat him in New York in 2005.\n\nIn fact he had only ever lost to Blake and @andyroddick.\n\nHe has now lost his last two:\n\nTiafoe 🇺🇸 2022\nMcDonald 🇦🇺 2023\n\n#AusOpen",
+        "display_text_range": [
+            0,
+            257
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AusOpen",
+                    "indices": [
+                        249,
+                        257
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jamesblake",
+                    "name": "James Blake",
+                    "id": 206105134,
+                    "id_str": "206105134",
+                    "indices": [
+                        84,
+                        95
+                    ]
+                },
+                {
+                    "screen_name": "andyroddick",
+                    "name": "andyroddick",
+                    "id": 13838562,
+                    "id_str": "13838562",
+                    "indices": [
+                        170,
+                        182
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/vllVxYBxvr",
+                "expanded_url": "https://twitter.com/i/web/status/1615599294912028672",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "jamesblake",
+                "name": "James Blake",
+                "id": 206105134,
+                "id_str": "206105134",
+                "indices": [
+                    84,
+                    95
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023862947"
+}

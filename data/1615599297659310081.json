@@ -1,0 +1,337 @@
+{
+    "created_at": "Wed Jan 18 06:37:43 +0000 2023",
+    "id": 1615599297659310081,
+    "id_str": "1615599297659310081",
+    "text": "RT @BJP4India: Prime Minister Shri @narendramodi will virtually inaugurate Saansad Khel Mahakumbh 2022-23, being organised in Basti, tomorr…",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2603407399,
+        "id_str": "2603407399",
+        "name": "Dr. Shiv Shakti Nath Bakshi",
+        "screen_name": "shivshaktibjp",
+        "location": "New Delhi",
+        "url": null,
+        "description": "Office Secretary, BJP Parliamentary Party \nNational Convenor, BJP Journals & Publication Deptt. \nExecutive Editor, BJP Mouthpiece Kamal Sandesh",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "verified_type": "blue",
+        "followers_count": 2150,
+        "friends_count": 150,
+        "listed_count": 5,
+        "favourites_count": 21008,
+        "statuses_count": 21917,
+        "created_at": "Fri Jul 04 12:17:42 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1580900127635492865/WZ5K_eZZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1580900127635492865/WZ5K_eZZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2603407399/1665751278",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 17:30:27 +0000 2023",
+        "id": 1615401175301623810,
+        "id_str": "1615401175301623810",
+        "text": "Prime Minister Shri @narendramodi will virtually inaugurate Saansad Khel Mahakumbh 2022-23, being organised in Bast… https://t.co/u9kYFH84Nj",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 207809313,
+            "id_str": "207809313",
+            "name": "BJP",
+            "screen_name": "BJP4India",
+            "location": "6-A, Deen Dayal Upadhyay Marg,",
+            "url": "http://www.bjp.org",
+            "description": "Official Twitter account of the Bharatiya Janata Party (BJP), world's largest political party. भारतीय जनता पार्टी (भाजपा)\n\nhttp://instagram.com/bjp4india",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "verified_type": "blue",
+            "followers_count": 19816256,
+            "friends_count": 3,
+            "listed_count": 4847,
+            "favourites_count": 0,
+            "statuses_count": 238835,
+            "created_at": "Tue Oct 26 02:19:07 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1566779451572383749/SNvXtQQh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1566779451572383749/SNvXtQQh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/207809313/1662728876",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Prime Minister Shri @narendramodi will virtually inaugurate Saansad Khel Mahakumbh 2022-23, being organised in Basti, tomorrow.\n\nWatch live:\n\n• https://t.co/ZFyEVlesOi\n• https://t.co/vpP0MIos7C\n• https://t.co/lcXkSnOnsV\n• https://t.co/4XQ2GzrhRl https://t.co/q7vuZ3wDGI",
+            "display_text_range": [
+                0,
+                245
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/ZFyEVlesOi",
+                        "expanded_url": "https://twitter.com/BJP4India",
+                        "display_url": "twitter.com/BJP4India",
+                        "indices": [
+                            144,
+                            167
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/vpP0MIos7C",
+                        "expanded_url": "http://facebook.com/BJP4India",
+                        "display_url": "facebook.com/BJP4India",
+                        "indices": [
+                            170,
+                            193
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/lcXkSnOnsV",
+                        "expanded_url": "http://youtube.com/BJP4India",
+                        "display_url": "youtube.com/BJP4India",
+                        "indices": [
+                            196,
+                            219
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/4XQ2GzrhRl",
+                        "expanded_url": "http://bjp.org/bjplive",
+                        "display_url": "bjp.org/bjplive",
+                        "indices": [
+                            222,
+                            245
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "narendramodi",
+                        "name": "Narendra Modi",
+                        "id": 18839785,
+                        "id_str": "18839785",
+                        "indices": [
+                            20,
+                            33
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615400873995415555,
+                        "id_str": "1615400873995415555",
+                        "indices": [
+                            246,
+                            269
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmsOiUBaMAM3MOG.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmsOiUBaMAM3MOG.jpg",
+                        "url": "https://t.co/q7vuZ3wDGI",
+                        "display_url": "pic.twitter.com/q7vuZ3wDGI",
+                        "expanded_url": "https://twitter.com/BJP4India/status/1615401175301623810/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615400873995415555,
+                        "id_str": "1615400873995415555",
+                        "indices": [
+                            246,
+                            269
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmsOiUBaMAM3MOG.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmsOiUBaMAM3MOG.jpg",
+                        "url": "https://t.co/q7vuZ3wDGI",
+                        "display_url": "pic.twitter.com/q7vuZ3wDGI",
+                        "expanded_url": "https://twitter.com/BJP4India/status/1615401175301623810/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 6,
+        "reply_count": 35,
+        "retweet_count": 369,
+        "favorite_count": 753,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/u9kYFH84Nj",
+                    "expanded_url": "https://twitter.com/i/web/status/1615401175301623810",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "narendramodi",
+                    "name": "Narendra Modi",
+                    "id": 18839785,
+                    "id_str": "18839785",
+                    "indices": [
+                        20,
+                        33
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "BJP4India",
+                "name": "BJP",
+                "id": 207809313,
+                "id_str": "207809313",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "narendramodi",
+                "name": "Narendra Modi",
+                "id": 18839785,
+                "id_str": "18839785",
+                "indices": [
+                    35,
+                    48
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023863602"
+}

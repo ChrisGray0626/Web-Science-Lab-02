@@ -1,0 +1,326 @@
+{
+    "created_at": "Wed Jan 18 06:37:41 +0000 2023",
+    "id": 1615599289866018817,
+    "id_str": "1615599289866018817",
+    "text": "RT @Leatherotics: This #Leather Underbust Dark Green Corset cinches your waist as tight as you dare while displaying your assets. Not just…",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1569943355878002688,
+        "id_str": "1569943355878002688",
+        "name": "David Miller",
+        "screen_name": "DavidMi58556698",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 172,
+        "friends_count": 104,
+        "listed_count": 0,
+        "favourites_count": 3375,
+        "statuses_count": 1293,
+        "created_at": "Wed Sep 14 06:57:38 +0000 2022",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1569943437394251776/Z9QyLR1T_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1569943437394251776/Z9QyLR1T_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 19:04:49 +0000 2023",
+        "id": 1615424921944920091,
+        "id_str": "1615424921944920091",
+        "text": "This #Leather Underbust Dark Green Corset cinches your waist as tight as you dare while displaying your assets. Not… https://t.co/SBBDFpnAqh",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://www.radaar.io/\" rel=\"nofollow\">RADAAR</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 83626281,
+            "id_str": "83626281",
+            "name": "Leatherotics",
+            "screen_name": "Leatherotics",
+            "location": null,
+            "url": "https://www.leatherotics.co.uk",
+            "description": "We design and produce high quality handmade leather clothing like #corsets, #skirts, #dresses and #larp costuming.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 2095,
+            "friends_count": 904,
+            "listed_count": 11,
+            "favourites_count": 350,
+            "statuses_count": 3737,
+            "created_at": "Mon Oct 19 15:42:26 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F7F7F7",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "9266CC",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1552681493536858112/JdL37UYx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1552681493536858112/JdL37UYx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/83626281/1659021137",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "This #Leather Underbust Dark Green Corset cinches your waist as tight as you dare while displaying your assets. Not just for the playroom, this #corset can also be worn under a sheer shirt to attract and entice.\n\nhttps://t.co/YMxEoGlfrQ\n\n#leathercorset @gynarchygoddess https://t.co/icyGEhjtkB",
+            "display_text_range": [
+                0,
+                269
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Leather",
+                        "indices": [
+                            5,
+                            13
+                        ]
+                    },
+                    {
+                        "text": "corset",
+                        "indices": [
+                            144,
+                            151
+                        ]
+                    },
+                    {
+                        "text": "leathercorset",
+                        "indices": [
+                            238,
+                            252
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/YMxEoGlfrQ",
+                        "expanded_url": "https://leatherotics.co.uk/new-items/olive-green-under-bust-corset-1803/",
+                        "display_url": "leatherotics.co.uk/new-items/oliv…",
+                        "indices": [
+                            213,
+                            236
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "gynarchygoddess",
+                        "name": "S E R E N A ☽🌕☾ 𝒢𝓎𝓃𝒶𝓇𝒸𝒽𝓎 𝒢𝑜𝒹𝒹𝑒𝓈𝓈",
+                        "id": 706273092134379521,
+                        "id_str": "706273092134379521",
+                        "indices": [
+                            253,
+                            269
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615424909974376483,
+                        "id_str": "1615424909974376483",
+                        "indices": [
+                            270,
+                            293
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmskZZBXECMjkWj.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmskZZBXECMjkWj.jpg",
+                        "url": "https://t.co/icyGEhjtkB",
+                        "display_url": "pic.twitter.com/icyGEhjtkB",
+                        "expanded_url": "https://twitter.com/Leatherotics/status/1615424921944920091/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615424909974376483,
+                        "id_str": "1615424909974376483",
+                        "indices": [
+                            270,
+                            293
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmskZZBXECMjkWj.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmskZZBXECMjkWj.jpg",
+                        "url": "https://t.co/icyGEhjtkB",
+                        "display_url": "pic.twitter.com/icyGEhjtkB",
+                        "expanded_url": "https://twitter.com/Leatherotics/status/1615424921944920091/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 6,
+        "reply_count": 7,
+        "retweet_count": 38,
+        "favorite_count": 372,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Leather",
+                    "indices": [
+                        5,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/SBBDFpnAqh",
+                    "expanded_url": "https://twitter.com/i/web/status/1615424921944920091",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Leather",
+                "indices": [
+                    23,
+                    31
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Leatherotics",
+                "name": "Leatherotics",
+                "id": 83626281,
+                "id_str": "83626281",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023861744"
+}

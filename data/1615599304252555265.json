@@ -1,0 +1,348 @@
+{
+    "created_at": "Wed Jan 18 06:37:45 +0000 2023",
+    "id": 1615599304252555265,
+    "id_str": "1615599304252555265",
+    "text": "RT @ArchewellBaby: The YouGov polls, run by Queen Consort Camilla's nephew, want you to believe the UK isn't interested in Prince Harry and…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3054256373,
+        "id_str": "3054256373",
+        "name": "Stanning the Sussexes",
+        "screen_name": "teresajhol",
+        "location": null,
+        "url": null,
+        "description": "Proud Card Carrying Brazen Hussy",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 2075,
+        "friends_count": 4391,
+        "listed_count": 19,
+        "favourites_count": 195245,
+        "statuses_count": 142285,
+        "created_at": "Sun Feb 22 23:17:28 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1604453389093535747/Oyj1s4BO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1604453389093535747/Oyj1s4BO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3054256373/1671366376",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jan 18 04:37:58 +0000 2023",
+        "id": 1615569159806681088,
+        "id_str": "1615569159806681088",
+        "text": "The YouGov polls, run by Queen Consort Camilla's nephew, want you to believe the UK isn't interested in Prince Harr… https://t.co/Y2ZzF1xTFd",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1334670567685959683,
+            "id_str": "1334670567685959683",
+            "name": "Alexis( sowing discord in the west)",
+            "screen_name": "ArchewellBaby",
+            "location": "Fuck around and find out 😎",
+            "url": "http://Archewell.com",
+            "description": "Formerly known as Most Noble Order of Spread Legs NOW Queen Consort",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 7271,
+            "friends_count": 157,
+            "listed_count": 52,
+            "favourites_count": 146412,
+            "statuses_count": 31151,
+            "created_at": "Fri Dec 04 01:27:28 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1477264201940934658/SscIRGJU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1477264201940934658/SscIRGJU_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1334670567685959683/1620311183",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "The YouGov polls, run by Queen Consort Camilla's nephew, want you to believe the UK isn't interested in Prince Harry and Meghan Markle and yet their Netflix Docuseries is in the Top 10 for the 6th week in a row &amp; #Spare is the fastest selling non-fiction book of ALL TIME! https://t.co/2lJcIvkArq",
+            "display_text_range": [
+                0,
+                276
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Spare",
+                        "indices": [
+                            217,
+                            223
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615569138432311297,
+                        "id_str": "1615569138432311297",
+                        "indices": [
+                            277,
+                            300
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Fmunkl5XgAEsNUW.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Fmunkl5XgAEsNUW.jpg",
+                        "url": "https://t.co/2lJcIvkArq",
+                        "display_url": "pic.twitter.com/2lJcIvkArq",
+                        "expanded_url": "https://twitter.com/ArchewellBaby/status/1615569159806681088/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1615569149849178112,
+                        "id_str": "1615569149849178112",
+                        "indices": [
+                            277,
+                            300
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmunlQbXEAA8eDi.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmunlQbXEAA8eDi.jpg",
+                        "url": "https://t.co/2lJcIvkArq",
+                        "display_url": "pic.twitter.com/2lJcIvkArq",
+                        "expanded_url": "https://twitter.com/ArchewellBaby/status/1615569159806681088/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1280,
+                                "h": 910,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 483,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 853,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615569138432311297,
+                        "id_str": "1615569138432311297",
+                        "indices": [
+                            277,
+                            300
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Fmunkl5XgAEsNUW.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Fmunkl5XgAEsNUW.jpg",
+                        "url": "https://t.co/2lJcIvkArq",
+                        "display_url": "pic.twitter.com/2lJcIvkArq",
+                        "expanded_url": "https://twitter.com/ArchewellBaby/status/1615569159806681088/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1615569149849178112,
+                        "id_str": "1615569149849178112",
+                        "indices": [
+                            277,
+                            300
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmunlQbXEAA8eDi.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmunlQbXEAA8eDi.jpg",
+                        "url": "https://t.co/2lJcIvkArq",
+                        "display_url": "pic.twitter.com/2lJcIvkArq",
+                        "expanded_url": "https://twitter.com/ArchewellBaby/status/1615569159806681088/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1280,
+                                "h": 910,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 483,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 853,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 2,
+        "reply_count": 6,
+        "retweet_count": 41,
+        "favorite_count": 169,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Y2ZzF1xTFd",
+                    "expanded_url": "https://twitter.com/i/web/status/1615569159806681088",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ArchewellBaby",
+                "name": "Alexis( sowing discord in the west)",
+                "id": 1334670567685959683,
+                "id_str": "1334670567685959683",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023865174"
+}

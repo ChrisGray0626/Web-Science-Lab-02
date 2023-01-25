@@ -1,0 +1,310 @@
+{
+    "created_at": "Wed Jan 18 06:37:47 +0000 2023",
+    "id": 1615599314147106816,
+    "id_str": "1615599314147106816",
+    "text": "RT @SDCards7: Thank you so much, everyone. Have a great evening ♥#womaninbizhour https://t.co/uasZFcJ3Nw #shopindie #valentinesday https://…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 118870812,
+        "id_str": "118870812",
+        "name": "Amy Guettler",
+        "screen_name": "saltedbayonet",
+        "location": "Denver",
+        "url": "https://www.etsy.com/shop/SaltyLassSeaGlass",
+        "description": "Mad for #seaglass craftswoman creating unique #seaglassjewelry. Dedicated wordsmith with a passion for all #writing, #editing and publishing.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 24245,
+        "friends_count": 8202,
+        "listed_count": 133,
+        "favourites_count": 238129,
+        "statuses_count": 471155,
+        "created_at": "Tue Mar 02 00:04:36 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "413E4A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "F7E4BE",
+        "profile_sidebar_fill_color": "F0B49E",
+        "profile_text_color": "73626E",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/732336952918167552/3Rm6gQR3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/732336952918167552/3Rm6gQR3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/118870812/1559366315",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 20:04:15 +0000 2023",
+        "id": 1615439880095424526,
+        "id_str": "1615439880095424526",
+        "text": "Thank you so much, everyone. Have a great evening ♥#womaninbizhour https://t.co/uasZFcJ3Nw #shopindie #valentinesday https://t.co/JL5vNx10b0",
+        "display_text_range": [
+            0,
+            116
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 948244525025292288,
+            "id_str": "948244525025292288",
+            "name": "SDCards",
+            "screen_name": "SDCards7",
+            "location": null,
+            "url": "http://www.etsy.com/uk/shop/SthDifferentCards",
+            "description": "Bespoke handdrawn greeting cards and notebook covers designed exclusively for you and to your specifications. DM me. Ready to post items via Etsy link",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 3561,
+            "friends_count": 640,
+            "listed_count": 32,
+            "favourites_count": 40057,
+            "statuses_count": 50871,
+            "created_at": "Tue Jan 02 17:28:07 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1449694057517752321/0BUYUr8B_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1449694057517752321/0BUYUr8B_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/948244525025292288/1672674622",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "womaninbizhour",
+                    "indices": [
+                        51,
+                        66
+                    ]
+                },
+                {
+                    "text": "shopindie",
+                    "indices": [
+                        91,
+                        101
+                    ]
+                },
+                {
+                    "text": "valentinesday",
+                    "indices": [
+                        102,
+                        116
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/uasZFcJ3Nw",
+                    "expanded_url": "https://www.etsy.com/uk/listing/672199681/valentines-day-card-ready-to-ship?click_key=4a8eb863aa70e4c31414b52d48fc74a4ded60ee5%3A672199681&click_sum=83ad64a2&ref=shop_home_active_4",
+                    "display_url": "etsy.com/uk/listing/672…",
+                    "indices": [
+                        67,
+                        90
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1615439781466443776,
+                    "id_str": "1615439781466443776",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Fmsx7BpXkAA9-EE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Fmsx7BpXkAA9-EE.jpg",
+                    "url": "https://t.co/JL5vNx10b0",
+                    "display_url": "pic.twitter.com/JL5vNx10b0",
+                    "expanded_url": "https://twitter.com/SDCards7/status/1615439880095424526/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1483,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 869,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 492,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1615439781466443776,
+                    "id_str": "1615439781466443776",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Fmsx7BpXkAA9-EE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Fmsx7BpXkAA9-EE.jpg",
+                    "url": "https://t.co/JL5vNx10b0",
+                    "display_url": "pic.twitter.com/JL5vNx10b0",
+                    "expanded_url": "https://twitter.com/SDCards7/status/1615439880095424526/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1483,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 869,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 492,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "womaninbizhour",
+                "indices": [
+                    65,
+                    80
+                ]
+            },
+            {
+                "text": "shopindie",
+                "indices": [
+                    105,
+                    115
+                ]
+            },
+            {
+                "text": "valentinesday",
+                "indices": [
+                    116,
+                    130
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/uasZFcJ3Nw",
+                "expanded_url": "https://www.etsy.com/uk/listing/672199681/valentines-day-card-ready-to-ship?click_key=4a8eb863aa70e4c31414b52d48fc74a4ded60ee5%3A672199681&click_sum=83ad64a2&ref=shop_home_active_4",
+                "display_url": "etsy.com/uk/listing/672…",
+                "indices": [
+                    81,
+                    104
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "SDCards7",
+                "name": "SDCards",
+                "id": 948244525025292288,
+                "id_str": "948244525025292288",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023867533"
+}

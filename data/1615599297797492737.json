@@ -1,0 +1,270 @@
+{
+    "created_at": "Wed Jan 18 06:37:43 +0000 2023",
+    "id": 1615599297797492737,
+    "id_str": "1615599297797492737",
+    "text": "RT @GovernorShapiro: Thank you, Pennsylvania.\n\nIt's been an honor to serve as your governor.\n\nTogether, we overcame the insurmountable and…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 252565323,
+        "id_str": "252565323",
+        "name": "Rep. Maria P Donatucci",
+        "screen_name": "RepDonatucci",
+        "location": "Philadelphia, PA",
+        "url": "http://www.pahouse.com/donatucci",
+        "description": "Chairwoman, Civil Service Comm. Former PA State Rep/185. Mom of grown children. Grand mom to Hemingway the Westie. Pursuer of Justice;my word is my bond 💚🦅🏈",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "verified_type": "blue",
+        "followers_count": 3744,
+        "friends_count": 1112,
+        "listed_count": 149,
+        "favourites_count": 7258,
+        "statuses_count": 10417,
+        "created_at": "Tue Feb 15 13:11:13 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "05095C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0F50BA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1584204778384523264/k_xL5Z6i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1584204778384523264/k_xL5Z6i_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/252565323/1548030676",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jan 16 12:02:00 +0000 2023",
+        "id": 1614956129410338816,
+        "id_str": "1614956129410338816",
+        "text": "Thank you, Pennsylvania.\n\nIt's been an honor to serve as your governor.\n\nTogether, we overcame the insurmountable a… https://t.co/Wndrd2IQxO",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2978837542,
+            "id_str": "2978837542",
+            "name": "Gov. Josh Shapiro",
+            "screen_name": "GovernorShapiro",
+            "location": "Pennsylvania, USA",
+            "url": "http://governor.pa.gov",
+            "description": "Dad to four kids. Married to my high school sweetheart. Governor of the Commonwealth of Pennsylvania.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "verified_type": "blue",
+            "followers_count": 292555,
+            "friends_count": 1108,
+            "listed_count": 1655,
+            "favourites_count": 2008,
+            "statuses_count": 19371,
+            "created_at": "Wed Jan 14 21:17:23 +0000 2015",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1615387734180249603/zU0VItTZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1615387734180249603/zU0VItTZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2978837542/1673983343",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Thank you, Pennsylvania.\n\nIt's been an honor to serve as your governor.\n\nTogether, we overcame the insurmountable and built a stronger commonwealth.\n\nFrances and I are grateful for the opportunity you gave us.\n\nYour neighbor from York,\nTom Wolf, 47th governor of Pennsylvania https://t.co/BwVzv7KN80",
+            "display_text_range": [
+                0,
+                275
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1614869029558132737,
+                        "id_str": "1614869029558132737",
+                        "indices": [
+                            276,
+                            299
+                        ],
+                        "description": "Image of Governor Tom Wolf and First Lady Frances Wolf with their backs turned as they look over the horizon and the sun sets on Harrisburg.",
+                        "media_url": "http://pbs.twimg.com/media/Fmkq05GXoAEj3Qv.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Fmkq05GXoAEj3Qv.jpg",
+                        "url": "https://t.co/BwVzv7KN80",
+                        "display_url": "pic.twitter.com/BwVzv7KN80",
+                        "expanded_url": "https://twitter.com/GovernorTomWolf/status/1614956129410338816/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1614869029558132737,
+                        "id_str": "1614869029558132737",
+                        "indices": [
+                            276,
+                            299
+                        ],
+                        "description": "Image of Governor Tom Wolf and First Lady Frances Wolf with their backs turned as they look over the horizon and the sun sets on Harrisburg.",
+                        "media_url": "http://pbs.twimg.com/media/Fmkq05GXoAEj3Qv.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Fmkq05GXoAEj3Qv.jpg",
+                        "url": "https://t.co/BwVzv7KN80",
+                        "display_url": "pic.twitter.com/BwVzv7KN80",
+                        "expanded_url": "https://twitter.com/GovernorTomWolf/status/1614956129410338816/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 113,
+        "reply_count": 671,
+        "retweet_count": 582,
+        "favorite_count": 10613,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Wndrd2IQxO",
+                    "expanded_url": "https://twitter.com/i/web/status/1614956129410338816",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "GovernorShapiro",
+                "name": "Gov. Josh Shapiro",
+                "id": 2978837542,
+                "id_str": "2978837542",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023863635"
+}

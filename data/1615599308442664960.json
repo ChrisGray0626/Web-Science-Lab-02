@@ -1,0 +1,350 @@
+{
+    "created_at": "Wed Jan 18 06:37:46 +0000 2023",
+    "id": 1615599308442664960,
+    "id_str": "1615599308442664960",
+    "text": "RT @WilliamClouston: 'Was Boris Johnson destined to fail?\n\nA key 'Post-Brexit' question I put to Patrick O'Flynn. \n\nFull interview tomorrow…",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 707983026383413248,
+        "id_str": "707983026383413248",
+        "name": "Hego Damask 🇬🇧",
+        "screen_name": "MagisterDamask",
+        "location": "Twitter",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 303,
+        "friends_count": 1645,
+        "listed_count": 1,
+        "favourites_count": 335597,
+        "statuses_count": 124014,
+        "created_at": "Thu Mar 10 17:34:41 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708752147119214592/_n9kfdEp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/708752147119214592/_n9kfdEp_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jan 14 20:43:12 +0000 2023",
+        "id": 1614362520281841666,
+        "id_str": "1614362520281841666",
+        "text": "'Was Boris Johnson destined to fail?\n\nA key 'Post-Brexit' question I put to Patrick O'Flynn. \n\nFull interview tomor… https://t.co/iU2BZHubXS",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1063583406196445184,
+            "id_str": "1063583406196445184",
+            "name": "William Clouston SDP",
+            "screen_name": "WilliamClouston",
+            "location": "United Kingdom",
+            "url": "http://sdp.org.uk",
+            "description": "Leader of the Social Democratic Party. \nOwenite. Admirer of the late Peter Shore. QPR. Ferry-louper. \nFollows and RTs are not endorsements, obviously...",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 17211,
+            "friends_count": 4348,
+            "listed_count": 68,
+            "favourites_count": 24757,
+            "statuses_count": 14143,
+            "created_at": "Sat Nov 17 00:03:39 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1443628255769243651/70q5Dr7n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1443628255769243651/70q5Dr7n_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1063583406196445184/1666259546",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "'Was Boris Johnson destined to fail?\n\nA key 'Post-Brexit' question I put to Patrick O'Flynn. \n\nFull interview tomorrow at 10am.\n\n@SDPhq\n@oflynnsocial https://t.co/nKjZjaytK5",
+            "display_text_range": [
+                0,
+                149
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "SDPhq",
+                        "name": "Social Democratic Party",
+                        "id": 730198661058170880,
+                        "id_str": "730198661058170880",
+                        "indices": [
+                            129,
+                            135
+                        ]
+                    },
+                    {
+                        "screen_name": "oflynnsocial",
+                        "name": "Patrick O'Flynn",
+                        "id": 158021529,
+                        "id_str": "158021529",
+                        "indices": [
+                            136,
+                            149
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1614362371799089153,
+                        "id_str": "1614362371799089153",
+                        "indices": [
+                            150,
+                            173
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1614362371799089153/pu/img/cBrBACqm7YoqYGBR.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1614362371799089153/pu/img/cBrBACqm7YoqYGBR.jpg",
+                        "url": "https://t.co/nKjZjaytK5",
+                        "display_url": "pic.twitter.com/nKjZjaytK5",
+                        "expanded_url": "https://twitter.com/WilliamClouston/status/1614362520281841666/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 50520,
+                            "variants": [
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1614362371799089153/pu/vid/480x270/pQ5i31423TOdNTCR.mp4?tag=12"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1614362371799089153/pu/pl/faj2gymEKA9Q456f.m3u8?tag=12&container=fmp4"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1614362371799089153/pu/vid/960x540/WcXSxzssWs6V_hFK.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1614362371799089153/pu/vid/640x360/YVj7O_ez17xYYotx.mp4?tag=12"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 960,
+                                "h": 540,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 960,
+                                "h": 540,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1614362371799089153,
+                        "id_str": "1614362371799089153",
+                        "indices": [
+                            150,
+                            173
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1614362371799089153/pu/img/cBrBACqm7YoqYGBR.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1614362371799089153/pu/img/cBrBACqm7YoqYGBR.jpg",
+                        "url": "https://t.co/nKjZjaytK5",
+                        "display_url": "pic.twitter.com/nKjZjaytK5",
+                        "expanded_url": "https://twitter.com/WilliamClouston/status/1614362520281841666/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 50520,
+                            "variants": [
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1614362371799089153/pu/vid/480x270/pQ5i31423TOdNTCR.mp4?tag=12"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1614362371799089153/pu/pl/faj2gymEKA9Q456f.m3u8?tag=12&container=fmp4"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1614362371799089153/pu/vid/960x540/WcXSxzssWs6V_hFK.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1614362371799089153/pu/vid/640x360/YVj7O_ez17xYYotx.mp4?tag=12"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 960,
+                                "h": 540,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 960,
+                                "h": 540,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 11,
+        "favorite_count": 47,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/iU2BZHubXS",
+                    "expanded_url": "https://twitter.com/i/web/status/1614362520281841666",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "WilliamClouston",
+                "name": "William Clouston SDP",
+                "id": 1063583406196445184,
+                "id_str": "1063583406196445184",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023866173"
+}

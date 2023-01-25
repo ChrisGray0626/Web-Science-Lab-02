@@ -1,0 +1,282 @@
+{
+    "created_at": "Wed Jan 18 06:37:48 +0000 2023",
+    "id": 1615599317343170560,
+    "id_str": "1615599317343170560",
+    "text": "RT @FOL_Liberation: Today’s demonstration in New York City in support of the Venezuelan diplomat Alex Saab who was illegally kidnapped by t…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1450548694160482306,
+        "id_str": "1450548694160482306",
+        "name": "RosaCaribe",
+        "screen_name": "RosaCaribe3",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 52,
+        "friends_count": 58,
+        "listed_count": 0,
+        "favourites_count": 4946,
+        "statuses_count": 4310,
+        "created_at": "Tue Oct 19 19:46:53 +0000 2021",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1450550414668038145/gO7u42uD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1450550414668038145/gO7u42uD_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 00:58:03 +0000 2023",
+        "id": 1615151428829323264,
+        "id_str": "1615151428829323264",
+        "text": "Today’s demonstration in New York City in support of the Venezuelan diplomat Alex Saab who was illegally kidnapped… https://t.co/k55wJ0c3Hr",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 750527389332045824,
+            "id_str": "750527389332045824",
+            "name": "The Flame of Liberation ⭐️🔥",
+            "screen_name": "FOL_Liberation",
+            "location": null,
+            "url": "https://www.youtube.com/@theflameofliberation",
+            "description": "YouTube: http://youtube.com/@TheFlameOfLib… Facebook: http://facebook.com/FlameOfLiberat…",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 2151,
+            "friends_count": 684,
+            "listed_count": 12,
+            "favourites_count": 12140,
+            "statuses_count": 7135,
+            "created_at": "Wed Jul 06 03:10:48 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1609248342382448642/84DMBHkt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1609248342382448642/84DMBHkt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/750527389332045824/1666156910",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Today’s demonstration in New York City in support of the Venezuelan diplomat Alex Saab who was illegally kidnapped by the US government. #AlexSaab #FreeAlexSaab https://t.co/b8xzD7Dh7H",
+            "display_text_range": [
+                0,
+                160
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "AlexSaab",
+                        "indices": [
+                            137,
+                            146
+                        ]
+                    },
+                    {
+                        "text": "FreeAlexSaab",
+                        "indices": [
+                            147,
+                            160
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615151423800463361,
+                        "id_str": "1615151423800463361",
+                        "indices": [
+                            161,
+                            184
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmorqZoX0AENfZE.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmorqZoX0AENfZE.jpg",
+                        "url": "https://t.co/b8xzD7Dh7H",
+                        "display_url": "pic.twitter.com/b8xzD7Dh7H",
+                        "expanded_url": "https://twitter.com/FOL_Liberation/status/1615151428829323264/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 768,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 768,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615151423800463361,
+                        "id_str": "1615151423800463361",
+                        "indices": [
+                            161,
+                            184
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmorqZoX0AENfZE.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmorqZoX0AENfZE.jpg",
+                        "url": "https://t.co/b8xzD7Dh7H",
+                        "display_url": "pic.twitter.com/b8xzD7Dh7H",
+                        "expanded_url": "https://twitter.com/FOL_Liberation/status/1615151428829323264/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 768,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 768,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 4,
+        "reply_count": 12,
+        "retweet_count": 118,
+        "favorite_count": 89,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/k55wJ0c3Hr",
+                    "expanded_url": "https://twitter.com/i/web/status/1615151428829323264",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "FOL_Liberation",
+                "name": "The Flame of Liberation ⭐️🔥",
+                "id": 750527389332045824,
+                "id_str": "750527389332045824",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023868295"
+}

@@ -1,0 +1,332 @@
+{
+    "created_at": "Wed Jan 18 06:37:52 +0000 2023",
+    "id": 1615599335844249602,
+    "id_str": "1615599335844249602",
+    "text": "RT @haaziq_mz: “They say New York never sleeps . They  haven’t seen Makkah yet.” \n\nFuh https://t.co/M5bVZMimRz",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1194951276070498304,
+        "id_str": "1194951276070498304",
+        "name": "かつとし",
+        "screen_name": "katsutoshidessu",
+        "location": "Shah alam",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 958,
+        "friends_count": 1436,
+        "listed_count": 0,
+        "favourites_count": 50743,
+        "statuses_count": 32465,
+        "created_at": "Thu Nov 14 12:12:52 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1547078698683076608/gA_dpwja_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1547078698683076608/gA_dpwja_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1194951276070498304/1658636142",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 05:13:51 +0000 2023",
+        "id": 1615215802172715009,
+        "id_str": "1615215802172715009",
+        "text": "“They say New York never sleeps . They  haven’t seen Makkah yet.” \n\nFuh https://t.co/M5bVZMimRz",
+        "display_text_range": [
+            0,
+            71
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14733699,
+            "id_str": "14733699",
+            "name": "Haaziq Zahar",
+            "screen_name": "haaziq_mz",
+            "location": "Malaysia",
+            "url": null,
+            "description": "Views are my own.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 7017,
+            "friends_count": 958,
+            "listed_count": 82,
+            "favourites_count": 20790,
+            "statuses_count": 141999,
+            "created_at": "Sun May 11 13:52:59 +0000 2008",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "6A5A4B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "A4955A",
+            "profile_sidebar_border_color": "6A5A4B",
+            "profile_sidebar_fill_color": "6A5A4B",
+            "profile_text_color": "A4955A",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1580859504098308096/TJsaijhG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1580859504098308096/TJsaijhG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14733699/1626354765",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 11,
+        "reply_count": 5,
+        "retweet_count": 64,
+        "favorite_count": 203,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1615215789904400384,
+                    "id_str": "1615215789904400384",
+                    "indices": [
+                        72,
+                        95
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FmpmNADakAAE5B7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FmpmNADakAAE5B7.jpg",
+                    "url": "https://t.co/M5bVZMimRz",
+                    "display_url": "pic.twitter.com/M5bVZMimRz",
+                    "expanded_url": "https://twitter.com/haaziq_mz/status/1615215802172715009/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 775,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 439,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1178,
+                            "h": 1824,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1615215789904400384,
+                    "id_str": "1615215789904400384",
+                    "indices": [
+                        72,
+                        95
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FmpmNADakAAE5B7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FmpmNADakAAE5B7.jpg",
+                    "url": "https://t.co/M5bVZMimRz",
+                    "display_url": "pic.twitter.com/M5bVZMimRz",
+                    "expanded_url": "https://twitter.com/haaziq_mz/status/1615215802172715009/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 775,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 439,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1178,
+                            "h": 1824,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "haaziq_mz",
+                "name": "Haaziq Zahar",
+                "id": 14733699,
+                "id_str": "14733699",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1615215789904400384,
+                "id_str": "1615215789904400384",
+                "indices": [
+                    87,
+                    110
+                ],
+                "media_url": "http://pbs.twimg.com/media/FmpmNADakAAE5B7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/FmpmNADakAAE5B7.jpg",
+                "url": "https://t.co/M5bVZMimRz",
+                "display_url": "pic.twitter.com/M5bVZMimRz",
+                "expanded_url": "https://twitter.com/haaziq_mz/status/1615215802172715009/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 775,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 439,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1178,
+                        "h": 1824,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1615215802172715009,
+                "source_status_id_str": "1615215802172715009",
+                "source_user_id": 14733699,
+                "source_user_id_str": "14733699"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1615215789904400384,
+                "id_str": "1615215789904400384",
+                "indices": [
+                    87,
+                    110
+                ],
+                "media_url": "http://pbs.twimg.com/media/FmpmNADakAAE5B7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/FmpmNADakAAE5B7.jpg",
+                "url": "https://t.co/M5bVZMimRz",
+                "display_url": "pic.twitter.com/M5bVZMimRz",
+                "expanded_url": "https://twitter.com/haaziq_mz/status/1615215802172715009/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 775,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 439,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1178,
+                        "h": 1824,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1615215802172715009,
+                "source_status_id_str": "1615215802172715009",
+                "source_user_id": 14733699,
+                "source_user_id_str": "14733699"
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023872706"
+}

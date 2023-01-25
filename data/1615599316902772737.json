@@ -1,0 +1,268 @@
+{
+    "created_at": "Wed Jan 18 06:37:48 +0000 2023",
+    "id": 1615599316902772737,
+    "id_str": "1615599316902772737",
+    "text": "RT @shekharsuman7: Excited to play the antagonist Hussain Zedi,a Syrian mafia in the new web series Kings of Mafia directed by Manish Vatsa…",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1337383367214448641,
+        "id_str": "1337383367214448641",
+        "name": "👨MAN-DEVILLE😈",
+        "screen_name": "23Mandeville",
+        "location": " ",
+        "url": null,
+        "description": "SIDHEART , CR7 Follower\nRTs or Likes on tweets are not endorsements in any way.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 739,
+        "friends_count": 2569,
+        "listed_count": 14,
+        "favourites_count": 74732,
+        "statuses_count": 66622,
+        "created_at": "Fri Dec 11 13:07:45 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1433368668008685572/gT98VWt-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1433368668008685572/gT98VWt-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337383367214448641/1630576697",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jan 18 06:35:49 +0000 2023",
+        "id": 1615598820007739394,
+        "id_str": "1615598820007739394",
+        "text": "Excited to play the antagonist Hussain Zedi,a Syrian mafia in the new web series Kings of Mafia directed by Manish… https://t.co/EQxWl15i3B",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 112730653,
+            "id_str": "112730653",
+            "name": "Shekhar Suman",
+            "screen_name": "shekharsuman7",
+            "location": "Mumbai, India",
+            "url": null,
+            "description": "Actor singer producer director presenter writer.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "verified_type": "blue",
+            "followers_count": 194801,
+            "friends_count": 121,
+            "listed_count": 65,
+            "favourites_count": 9982,
+            "statuses_count": 8782,
+            "created_at": "Tue Feb 09 14:32:31 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1406443877402234882/iiSVO40q_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406443877402234882/iiSVO40q_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/112730653/1624157283",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Excited to play the antagonist Hussain Zedi,a Syrian mafia in the new web series Kings of Mafia directed by Manish Vatsalya to be shot in Abu Dhabi and UK in the month of March. https://t.co/c23v4cLJdw",
+            "display_text_range": [
+                0,
+                177
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615598814932668416,
+                        "id_str": "1615598814932668416",
+                        "indices": [
+                            178,
+                            201
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmvCj_eakAAfuV0.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmvCj_eakAAfuV0.jpg",
+                        "url": "https://t.co/c23v4cLJdw",
+                        "display_url": "pic.twitter.com/c23v4cLJdw",
+                        "expanded_url": "https://twitter.com/shekharsuman7/status/1615598820007739394/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 265,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 799,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 468,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615598814932668416,
+                        "id_str": "1615598814932668416",
+                        "indices": [
+                            178,
+                            201
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmvCj_eakAAfuV0.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmvCj_eakAAfuV0.jpg",
+                        "url": "https://t.co/c23v4cLJdw",
+                        "display_url": "pic.twitter.com/c23v4cLJdw",
+                        "expanded_url": "https://twitter.com/shekharsuman7/status/1615598820007739394/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 265,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 799,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 468,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 3,
+        "favorite_count": 20,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/EQxWl15i3B",
+                    "expanded_url": "https://twitter.com/i/web/status/1615598820007739394",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "shekharsuman7",
+                "name": "Shekhar Suman",
+                "id": 112730653,
+                "id_str": "112730653",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023868190"
+}

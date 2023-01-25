@@ -1,0 +1,95 @@
+{
+    "created_at": "Wed Jan 18 06:37:50 +0000 2023",
+    "id": 1615599326734028801,
+    "id_str": "1615599326734028801",
+    "text": "#nowplaying Tempo by Dale Howard \nListen Live:  https://t.co/gK7w7PTU2S",
+    "source": "<a href=\"http://www.psquared.net\" rel=\"nofollow\">P Squared Tweeter</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1490850457,
+        "id_str": "1490850457",
+        "name": "Electric #NowPlaying Bot",
+        "screen_name": "ElectricNP",
+        "location": "United Kingdom",
+        "url": "http://electricradio.co.uk",
+        "description": "I’m the bot 🤖 showing all the #nowplaying tracks on @ElectricRadioUK! Listen live on http://tun.in/sfal9 beep beep! *unmonitored account*",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 2001,
+        "friends_count": 2,
+        "listed_count": 66,
+        "favourites_count": 3027,
+        "statuses_count": 1098661,
+        "created_at": "Fri Jun 07 16:58:24 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1283309116430180352/Ok0RWxp2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283309116430180352/Ok0RWxp2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490850457/1579532025",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "nowplaying",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/gK7w7PTU2S",
+                "expanded_url": "http://player.electricradio.co.uk",
+                "display_url": "player.electricradio.co.uk",
+                "indices": [
+                    48,
+                    71
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023870534"
+}

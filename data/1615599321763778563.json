@@ -1,0 +1,411 @@
+{
+    "created_at": "Wed Jan 18 06:37:49 +0000 2023",
+    "id": 1615599321763778563,
+    "id_str": "1615599321763778563",
+    "text": "RT @AdoptionsUk: Happy news!! Hercules in Cheltenham, Jarvis in Fife and  Corey in Birmingham have all been RESERVED !! \n\n😀😀😀😀😀😀😀😀😀😀😀😀\n\nTha…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1431158039499915267,
+        "id_str": "1431158039499915267",
+        "name": "Cheryl Odlum",
+        "screen_name": "CA1954O",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 161,
+        "friends_count": 13,
+        "listed_count": 0,
+        "favourites_count": 39,
+        "statuses_count": 58601,
+        "created_at": "Fri Aug 27 07:35:06 +0000 2021",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1431158317460729857/h8sPAEoE_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1431158317460729857/h8sPAEoE_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jan 16 20:52:28 +0000 2023",
+        "id": 1615089626217160737,
+        "id_str": "1615089626217160737",
+        "text": "Happy news!! Hercules in Cheltenham, Jarvis in Fife and  Corey in Birmingham have all been RESERVED !! \n\n😀😀😀😀😀😀😀😀😀😀… https://t.co/gNLquEscrq",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1231514832479948802,
+            "id_str": "1231514832479948802",
+            "name": "Animal Adoptions UK 🐕‍🦺🐈🐎❤️",
+            "screen_name": "AdoptionsUk",
+            "location": "Wales ,UK",
+            "url": "https://animaladoptions.uk/",
+            "description": "Please share the animals on my page to help them find homes, all with charities in the UK.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 66334,
+            "friends_count": 56205,
+            "listed_count": 125,
+            "favourites_count": 72061,
+            "statuses_count": 96511,
+            "created_at": "Sun Feb 23 09:43:26 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1231515403769217024/CMcHwLEh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231515403769217024/CMcHwLEh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231514832479948802/1582451457",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Happy news!! Hercules in Cheltenham, Jarvis in Fife and  Corey in Birmingham have all been RESERVED !! \n\n😀😀😀😀😀😀😀😀😀😀😀😀\n\nThank you to everyone that keeps retweeting to help find homes. \nIt only take a second to retweet, but one share could change a life 🏠🐶😺❤️ https://t.co/P7ydgXi4rH",
+            "display_text_range": [
+                0,
+                257
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615089230186692608,
+                        "id_str": "1615089230186692608",
+                        "indices": [
+                            258,
+                            281
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmnzGQXWQAAsek4.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmnzGQXWQAAsek4.jpg",
+                        "url": "https://t.co/P7ydgXi4rH",
+                        "display_url": "pic.twitter.com/P7ydgXi4rH",
+                        "expanded_url": "https://twitter.com/AdoptionsUk/status/1615089626217160737/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1134,
+                                "h": 1134,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1134,
+                                "h": 1134,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1615088999999176736,
+                        "id_str": "1615088999999176736",
+                        "indices": [
+                            258,
+                            281
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Fmny422XgCADSbi.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Fmny422XgCADSbi.jpg",
+                        "url": "https://t.co/P7ydgXi4rH",
+                        "display_url": "pic.twitter.com/P7ydgXi4rH",
+                        "expanded_url": "https://twitter.com/AdoptionsUk/status/1615089626217160737/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 426,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 847,
+                                "h": 530,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 847,
+                                "h": 530,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1615089183852306449,
+                        "id_str": "1615089183852306449",
+                        "indices": [
+                            258,
+                            281
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmnzDjwXoBEKk-M.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmnzDjwXoBEKk-M.jpg",
+                        "url": "https://t.co/P7ydgXi4rH",
+                        "display_url": "pic.twitter.com/P7ydgXi4rH",
+                        "expanded_url": "https://twitter.com/AdoptionsUk/status/1615089626217160737/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 500,
+                                "h": 281,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 500,
+                                "h": 281,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 500,
+                                "h": 281,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615089230186692608,
+                        "id_str": "1615089230186692608",
+                        "indices": [
+                            258,
+                            281
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmnzGQXWQAAsek4.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmnzGQXWQAAsek4.jpg",
+                        "url": "https://t.co/P7ydgXi4rH",
+                        "display_url": "pic.twitter.com/P7ydgXi4rH",
+                        "expanded_url": "https://twitter.com/AdoptionsUk/status/1615089626217160737/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1134,
+                                "h": 1134,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1134,
+                                "h": 1134,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1615088999999176736,
+                        "id_str": "1615088999999176736",
+                        "indices": [
+                            258,
+                            281
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Fmny422XgCADSbi.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Fmny422XgCADSbi.jpg",
+                        "url": "https://t.co/P7ydgXi4rH",
+                        "display_url": "pic.twitter.com/P7ydgXi4rH",
+                        "expanded_url": "https://twitter.com/AdoptionsUk/status/1615089626217160737/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 426,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 847,
+                                "h": 530,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 847,
+                                "h": 530,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1615089183852306449,
+                        "id_str": "1615089183852306449",
+                        "indices": [
+                            258,
+                            281
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmnzDjwXoBEKk-M.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmnzDjwXoBEKk-M.jpg",
+                        "url": "https://t.co/P7ydgXi4rH",
+                        "display_url": "pic.twitter.com/P7ydgXi4rH",
+                        "expanded_url": "https://twitter.com/AdoptionsUk/status/1615089626217160737/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 500,
+                                "h": 281,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 500,
+                                "h": 281,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 500,
+                                "h": 281,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 16,
+        "retweet_count": 210,
+        "favorite_count": 552,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/gNLquEscrq",
+                    "expanded_url": "https://twitter.com/i/web/status/1615089626217160737",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "AdoptionsUk",
+                "name": "Animal Adoptions UK 🐕‍🦺🐈🐎❤️",
+                "id": 1231514832479948802,
+                "id_str": "1231514832479948802",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023869349"
+}

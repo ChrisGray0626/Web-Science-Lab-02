@@ -1,0 +1,290 @@
+{
+    "created_at": "Wed Jan 18 06:37:45 +0000 2023",
+    "id": 1615599305468821505,
+    "id_str": "1615599305468821505",
+    "text": "RT @thebookseller: Prince Harry's Spare storms into the UK Official Top 50 number one spot, selling 467,183 print copies to become the fast…",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1512961386346946565,
+        "id_str": "1512961386346946565",
+        "name": "Recru",
+        "screen_name": "Recru8",
+        "location": "Texas, USA",
+        "url": null,
+        "description": "OLD AND COUNTRY KOOL !!!  CAN’T RIDE HORSES OR MY TRACTOR \nNOW I RIDE WITH THE #SUSSEXSQUAD NICE FOLKS",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 138,
+        "friends_count": 250,
+        "listed_count": 0,
+        "favourites_count": 17872,
+        "statuses_count": 13427,
+        "created_at": "Sun Apr 10 01:11:35 +0000 2022",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1598843359753297920/8gn2QbIu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1598843359753297920/8gn2QbIu_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 15:19:00 +0000 2023",
+        "id": 1615368093735292930,
+        "id_str": "1615368093735292930",
+        "text": "Prince Harry's Spare storms into the UK Official Top 50 number one spot, selling 467,183 print copies to become the… https://t.co/U8tjXyTPzv",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 25690886,
+            "id_str": "25690886",
+            "name": "The Bookseller",
+            "screen_name": "thebookseller",
+            "location": "London, UK",
+            "url": "http://www.thebookseller.com",
+            "description": "The UK's definitive book industry magazine and website. News, analysis, Nielsen BookScan sales charts, jobs, Buyer's guides, The British Book Awards and more.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "verified_type": "blue",
+            "followers_count": 244848,
+            "friends_count": 2230,
+            "listed_count": 4281,
+            "favourites_count": 6623,
+            "statuses_count": 131511,
+            "created_at": "Sat Mar 21 16:12:33 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1601142365854601217/mT2Qxaaz_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1601142365854601217/mT2Qxaaz_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25690886/1670577063",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Prince Harry's Spare storms into the UK Official Top 50 number one spot, selling 467,183 print copies to become the fastest-selling non-fiction book of all time. @TransworldBooks says the memoir has sold 750,000 copies across all formats.\n\nRead here: https://t.co/b4KTeBfg8X https://t.co/MmFm6ZvbBS",
+            "display_text_range": [
+                0,
+                274
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/b4KTeBfg8X",
+                        "expanded_url": "https://buff.ly/3CT9juS",
+                        "display_url": "buff.ly/3CT9juS",
+                        "indices": [
+                            251,
+                            274
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "TransworldBooks",
+                        "name": "Transworld Books",
+                        "id": 39482703,
+                        "id_str": "39482703",
+                        "indices": [
+                            162,
+                            178
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615368090295959552,
+                        "id_str": "1615368090295959552",
+                        "indices": [
+                            275,
+                            298
+                        ],
+                        "description": "Prince Harry smiling. He is wearing a light grey suit jacket and white shirt, and is in front of a pale grey background. Photo credit: Shutterstock",
+                        "media_url": "http://pbs.twimg.com/media/FmrwuDOXgAAhwLr.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmrwuDOXgAAhwLr.jpg",
+                        "url": "https://t.co/MmFm6ZvbBS",
+                        "display_url": "pic.twitter.com/MmFm6ZvbBS",
+                        "expanded_url": "https://twitter.com/thebookseller/status/1615368093735292930/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615368090295959552,
+                        "id_str": "1615368090295959552",
+                        "indices": [
+                            275,
+                            298
+                        ],
+                        "description": "Prince Harry smiling. He is wearing a light grey suit jacket and white shirt, and is in front of a pale grey background. Photo credit: Shutterstock",
+                        "media_url": "http://pbs.twimg.com/media/FmrwuDOXgAAhwLr.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmrwuDOXgAAhwLr.jpg",
+                        "url": "https://t.co/MmFm6ZvbBS",
+                        "display_url": "pic.twitter.com/MmFm6ZvbBS",
+                        "expanded_url": "https://twitter.com/thebookseller/status/1615368093735292930/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 152,
+        "reply_count": 332,
+        "retweet_count": 847,
+        "favorite_count": 4565,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/U8tjXyTPzv",
+                    "expanded_url": "https://twitter.com/i/web/status/1615368093735292930",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "thebookseller",
+                "name": "The Bookseller",
+                "id": 25690886,
+                "id_str": "25690886",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023865464"
+}

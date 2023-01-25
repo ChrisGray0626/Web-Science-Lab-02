@@ -1,0 +1,357 @@
+{
+    "created_at": "Wed Jan 18 06:37:43 +0000 2023",
+    "id": 1615599295658397696,
+    "id_str": "1615599295658397696",
+    "text": "Remember these days planners @TheEPS1",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1218142222098599938,
+        "id_str": "1218142222098599938",
+        "name": "Professor Lucy Easthope",
+        "screen_name": "LucyGoBag",
+        "location": "Liverpool, Durham, Bath, NZ",
+        "url": "http://www.jounwin.co.uk/portfolio/lucy-easthope/",
+        "description": "Disaster Wild Card. Co-Founder, After Disaster Network. Author - Sunday Times Bestseller 'When The Dust Settles'",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 17063,
+        "friends_count": 7874,
+        "listed_count": 65,
+        "favourites_count": 156325,
+        "statuses_count": 80079,
+        "created_at": "Fri Jan 17 12:05:23 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1440653479240822792/IO9iPZ31_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1440653479240822792/IO9iPZ31_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1218142222098599938/1632313783",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1615530317619527682,
+    "quoted_status_id_str": "1615530317619527682",
+    "quoted_status": {
+        "created_at": "Wed Jan 18 02:03:37 +0000 2023",
+        "id": 1615530317619527682,
+        "id_str": "1615530317619527682",
+        "text": "HSE advice to the public on the use of face coverings during 2009 pandemic: may increase the risk of infection by c… https://t.co/LjZiT3VoaT",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 103987639,
+            "id_str": "103987639",
+            "name": "Dr. Michael B. Riordan",
+            "screen_name": "michael_riordan",
+            "location": "Scotland",
+            "url": "https://michaelriordan.org.uk/blog/2020/09/covid-beyond-left-and-right/",
+            "description": "Historian with cerebral palsy. Politics/Philosophy (BA), Intellectual History (MA), Scottish religion (PhD). Campaigning on disability & equitable Public Health",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 3505,
+            "friends_count": 2531,
+            "listed_count": 24,
+            "favourites_count": 9139,
+            "statuses_count": 6085,
+            "created_at": "Mon Jan 11 22:26:04 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1342129345205252099/ulhdp5CI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1342129345205252099/ulhdp5CI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/103987639/1611946701",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "HSE advice to the public on the use of face coverings during 2009 pandemic: may increase the risk of infection by contamination and encourage complacency…\n\nhttps://t.co/whvHZmeEAX https://t.co/qqKa97P9ao",
+            "display_text_range": [
+                0,
+                179
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/whvHZmeEAX",
+                        "expanded_url": "https://webarchive.nationalarchives.gov.uk/ukgwa/20180108154619/http://www.hse.gov.uk/aboutus/meetings/committees/acdp/080609/acdp-92-p63.pdf",
+                        "display_url": "webarchive.nationalarchives.gov.uk/ukgwa/20180108…",
+                        "indices": [
+                            156,
+                            179
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615529489148116992,
+                        "id_str": "1615529489148116992",
+                        "indices": [
+                            180,
+                            203
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmuDgszXgAAeD3F.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmuDgszXgAAeD3F.jpg",
+                        "url": "https://t.co/qqKa97P9ao",
+                        "display_url": "pic.twitter.com/qqKa97P9ao",
+                        "expanded_url": "https://twitter.com/michael_riordan/status/1615530317619527682/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1170,
+                                "h": 763,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 443,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1170,
+                                "h": 763,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1615529510937530369,
+                        "id_str": "1615529510937530369",
+                        "indices": [
+                            180,
+                            203
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmuDh9-XkAETZYC.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmuDh9-XkAETZYC.jpg",
+                        "url": "https://t.co/qqKa97P9ao",
+                        "display_url": "pic.twitter.com/qqKa97P9ao",
+                        "expanded_url": "https://twitter.com/michael_riordan/status/1615530317619527682/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1170,
+                                "h": 775,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1170,
+                                "h": 775,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615529489148116992,
+                        "id_str": "1615529489148116992",
+                        "indices": [
+                            180,
+                            203
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmuDgszXgAAeD3F.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmuDgszXgAAeD3F.jpg",
+                        "url": "https://t.co/qqKa97P9ao",
+                        "display_url": "pic.twitter.com/qqKa97P9ao",
+                        "expanded_url": "https://twitter.com/michael_riordan/status/1615530317619527682/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1170,
+                                "h": 763,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 443,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1170,
+                                "h": 763,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1615529510937530369,
+                        "id_str": "1615529510937530369",
+                        "indices": [
+                            180,
+                            203
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmuDh9-XkAETZYC.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmuDh9-XkAETZYC.jpg",
+                        "url": "https://t.co/qqKa97P9ao",
+                        "display_url": "pic.twitter.com/qqKa97P9ao",
+                        "expanded_url": "https://twitter.com/michael_riordan/status/1615530317619527682/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1170,
+                                "h": 775,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1170,
+                                "h": 775,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 2,
+        "favorite_count": 7,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/LjZiT3VoaT",
+                    "expanded_url": "https://twitter.com/i/web/status/1615530317619527682",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/E9kf1AJqaz",
+        "expanded": "https://twitter.com/michael_riordan/status/1615530317619527682",
+        "display": "twitter.com/michael_riorda…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "TheEPS1",
+                "name": "The EPS",
+                "id": 222422722,
+                "id_str": "222422722",
+                "indices": [
+                    29,
+                    37
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023863125"
+}

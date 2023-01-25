@@ -1,0 +1,189 @@
+{
+    "created_at": "Wed Jan 18 06:37:45 +0000 2023",
+    "id": 1615599304177221632,
+    "id_str": "1615599304177221632",
+    "text": "Shot Of The Day.\nCongratulations all round as Peter Osgood scores his first F.A. Cup goal at Stamford Bridge for Ch… https://t.co/2ZawNwqZkH",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1505540751895244801,
+        "id_str": "1505540751895244801",
+        "name": "BygoneChelsea",
+        "screen_name": "BygoneChelsea",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 1581,
+        "friends_count": 169,
+        "listed_count": 9,
+        "favourites_count": 507,
+        "statuses_count": 460,
+        "created_at": "Sun Mar 20 13:45:22 +0000 2022",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1505541399831326720/9Zx-POKf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1505541399831326720/9Zx-POKf_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Shot Of The Day.\nCongratulations all round as Peter Osgood scores his first F.A. Cup goal at Stamford Bridge for Chelsea on 12th March 1968. The 5th Round Replay against Sheffield Wednesday drew a 55,013 gate and Bobby Tambling also scored as Chelsea win 2-0.\n#CFCHeritage https://t.co/xcFrwL5QDn",
+        "display_text_range": [
+            0,
+            272
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CFCHeritage",
+                    "indices": [
+                        260,
+                        272
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1615599289895362563,
+                    "id_str": "1615599289895362563",
+                    "indices": [
+                        273,
+                        296
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FmvC_o2WIAMxG6q.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FmvC_o2WIAMxG6q.jpg",
+                    "url": "https://t.co/xcFrwL5QDn",
+                    "display_url": "pic.twitter.com/xcFrwL5QDn",
+                    "expanded_url": "https://twitter.com/BygoneChelsea/status/1615599304177221632/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1615599289895362563,
+                    "id_str": "1615599289895362563",
+                    "indices": [
+                        273,
+                        296
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FmvC_o2WIAMxG6q.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FmvC_o2WIAMxG6q.jpg",
+                    "url": "https://t.co/xcFrwL5QDn",
+                    "display_url": "pic.twitter.com/xcFrwL5QDn",
+                    "expanded_url": "https://twitter.com/BygoneChelsea/status/1615599304177221632/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/2ZawNwqZkH",
+                "expanded_url": "https://twitter.com/i/web/status/1615599304177221632",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023865156"
+}

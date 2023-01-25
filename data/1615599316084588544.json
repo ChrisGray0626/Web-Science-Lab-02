@@ -1,0 +1,220 @@
+{
+    "created_at": "Wed Jan 18 06:37:47 +0000 2023",
+    "id": 1615599316084588544,
+    "id_str": "1615599316084588544",
+    "text": "RT @Fyodor34664866: @docrussjackson The UK's experience since Thatcher took power in '79 is mirrored in the USA by Reagan's first administr…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 54726599,
+        "id_str": "54726599",
+        "name": "Joy marshall",
+        "screen_name": "Joyjotting",
+        "location": "North Manchester",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 139,
+        "friends_count": 790,
+        "listed_count": 0,
+        "favourites_count": 19119,
+        "statuses_count": 5841,
+        "created_at": "Tue Jul 07 23:51:26 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "00B38F",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/757685779019735040/smwpaGLG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/757685779019735040/smwpaGLG_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Feb 10 15:44:01 +0000 2021",
+        "id": 1359528555256889349,
+        "id_str": "1359528555256889349",
+        "text": "@docrussjackson The UK's experience since Thatcher took power in '79 is mirrored in the USA by Reagan's first admin… https://t.co/Wvv3HT4nEY",
+        "display_text_range": [
+            16,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": 1359445197113950208,
+        "in_reply_to_status_id_str": "1359445197113950208",
+        "in_reply_to_user_id": 2813049204,
+        "in_reply_to_user_id_str": "2813049204",
+        "in_reply_to_screen_name": "docrussjackson",
+        "user": {
+            "id": 865223191035334658,
+            "id_str": "865223191035334658",
+            "name": "Fyodor Leanovich 🌹 💙",
+            "screen_name": "Fyodor34664866",
+            "location": "Wales, United Kingdom",
+            "url": null,
+            "description": "As flies to wanton boys are we to th' elites,\nThey kill us for their sport.\n\nMastodon: FyodorLeanovich@mindly.social\nNo direct messages.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 6841,
+            "friends_count": 6666,
+            "listed_count": 0,
+            "favourites_count": 15803,
+            "statuses_count": 112538,
+            "created_at": "Thu May 18 15:10:58 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/884089889586892800/lScyMV7E_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/884089889586892800/lScyMV7E_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/865223191035334658/1499618432",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "@docrussjackson The UK's experience since Thatcher took power in '79 is mirrored in the USA by Reagan's first administration. The post-war years up until the mid-70s are the golden years for the UK, when many employees had strong union representation and solid incomes.",
+            "display_text_range": [
+                16,
+                269
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "docrussjackson",
+                        "name": "GET A GRIP",
+                        "id": 2813049204,
+                        "id_str": "2813049204",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 2,
+        "reply_count": 2,
+        "retweet_count": 19,
+        "favorite_count": 55,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Wvv3HT4nEY",
+                    "expanded_url": "https://twitter.com/i/web/status/1359528555256889349",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "docrussjackson",
+                    "name": "GET A GRIP",
+                    "id": 2813049204,
+                    "id_str": "2813049204",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Fyodor34664866",
+                "name": "Fyodor Leanovich 🌹 💙",
+                "id": 865223191035334658,
+                "id_str": "865223191035334658",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "docrussjackson",
+                "name": "GET A GRIP",
+                "id": 2813049204,
+                "id_str": "2813049204",
+                "indices": [
+                    20,
+                    35
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023867995"
+}

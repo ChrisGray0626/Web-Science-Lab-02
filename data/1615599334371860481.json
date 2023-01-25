@@ -1,0 +1,472 @@
+{
+    "created_at": "Wed Jan 18 06:37:52 +0000 2023",
+    "id": 1615599334371860481,
+    "id_str": "1615599334371860481",
+    "text": "RT @GillyMeeky: Day 5 of trying to find Penny a home. 7 years old. Perfect family dog. So gentle and friendly. Walks really well on the lea…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1246007058132017152,
+        "id_str": "1246007058132017152",
+        "name": "Rio and The Sparkler",
+        "screen_name": "JaneVau85131900",
+        "location": "South East, England",
+        "url": null,
+        "description": "Sparkle is our lurcher now 2 years old, adopted from The Dogs Trust and Rio is our 4 year old retired greyhound adopted from Retired Greyhounds Canterbury. 😍",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 63,
+        "friends_count": 73,
+        "listed_count": 0,
+        "favourites_count": 7500,
+        "statuses_count": 3113,
+        "created_at": "Fri Apr 03 09:30:27 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1358408835510263809/u1RXdhiL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1358408835510263809/u1RXdhiL_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 07:23:20 +0000 2023",
+        "id": 1615248388034908161,
+        "id_str": "1615248388034908161",
+        "text": "Day 5 of trying to find Penny a home. 7 years old. Perfect family dog. So gentle and friendly. Walks really well on… https://t.co/cKXcPJM3xY",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 242030341,
+            "id_str": "242030341",
+            "name": "Gill Meek",
+            "screen_name": "GillyMeeky",
+            "location": "United Kingdom",
+            "url": null,
+            "description": "Rescuer of dogs from Romania. Animal lover. If you love all animals then I feel I will like you. Donations welcome https://tinyurl.com/GillMeek",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 7141,
+            "friends_count": 1193,
+            "listed_count": 9,
+            "favourites_count": 13853,
+            "statuses_count": 9376,
+            "created_at": "Sun Jan 23 19:32:06 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000585941191/6e61c09e5658fae4ec21332992c5c570_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000585941191/6e61c09e5658fae4ec21332992c5c570_normal.jpeg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Day 5 of trying to find Penny a home. 7 years old. Perfect family dog. So gentle and friendly. Walks really well on the lead. 6 months she’s been waiting for someone in the UK to notice her. She is ready to leave Romania. Is today her lucky day? She has so much love to give 🙏❤️ https://t.co/rA7B3y248z",
+            "display_text_range": [
+                0,
+                278
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615248320707936256,
+                        "id_str": "1615248320707936256",
+                        "indices": [
+                            279,
+                            302
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmqDyivXwAAOYw0.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmqDyivXwAAOYw0.jpg",
+                        "url": "https://t.co/rA7B3y248z",
+                        "display_url": "pic.twitter.com/rA7B3y248z",
+                        "expanded_url": "https://twitter.com/GillyMeeky/status/1615248388034908161/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 327,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 578,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 986,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1615248320720404481,
+                        "id_str": "1615248320720404481",
+                        "indices": [
+                            279,
+                            302
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1615248320720404481/pu/img/E0nmc-9Pn00yV-s5.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1615248320720404481/pu/img/E0nmc-9Pn00yV-s5.jpg",
+                        "url": "https://t.co/rA7B3y248z",
+                        "display_url": "pic.twitter.com/rA7B3y248z",
+                        "expanded_url": "https://twitter.com/GillyMeeky/status/1615248388034908161/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                39,
+                                80
+                            ],
+                            "duration_millis": 21733,
+                            "variants": [
+                                {
+                                    "bitrate": 632000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615248320720404481/pu/vid/320x656/W4h_e7WIQpuVSm04.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615248320720404481/pu/vid/624x1280/KJ4ZWkETMDXyVzuA.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 950000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615248320720404481/pu/vid/480x984/TDP7vzTuDafGsAF7.mp4?tag=12"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615248320720404481/pu/pl/rQpQym-FyCak7fHI.m3u8?tag=12&container=fmp4"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 624,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 585,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 332,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1615248320745668608,
+                        "id_str": "1615248320745668608",
+                        "indices": [
+                            279,
+                            302
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmqDyi4XgAA7aXc.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmqDyi4XgAA7aXc.jpg",
+                        "url": "https://t.co/rA7B3y248z",
+                        "display_url": "pic.twitter.com/rA7B3y248z",
+                        "expanded_url": "https://twitter.com/GillyMeeky/status/1615248388034908161/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 870,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 510,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 289,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615248320707936256,
+                        "id_str": "1615248320707936256",
+                        "indices": [
+                            279,
+                            302
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmqDyivXwAAOYw0.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmqDyivXwAAOYw0.jpg",
+                        "url": "https://t.co/rA7B3y248z",
+                        "display_url": "pic.twitter.com/rA7B3y248z",
+                        "expanded_url": "https://twitter.com/GillyMeeky/status/1615248388034908161/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 327,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 578,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 986,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1615248320720404481,
+                        "id_str": "1615248320720404481",
+                        "indices": [
+                            279,
+                            302
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1615248320720404481/pu/img/E0nmc-9Pn00yV-s5.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1615248320720404481/pu/img/E0nmc-9Pn00yV-s5.jpg",
+                        "url": "https://t.co/rA7B3y248z",
+                        "display_url": "pic.twitter.com/rA7B3y248z",
+                        "expanded_url": "https://twitter.com/GillyMeeky/status/1615248388034908161/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                39,
+                                80
+                            ],
+                            "duration_millis": 21733,
+                            "variants": [
+                                {
+                                    "bitrate": 632000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615248320720404481/pu/vid/320x656/W4h_e7WIQpuVSm04.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615248320720404481/pu/vid/624x1280/KJ4ZWkETMDXyVzuA.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 950000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615248320720404481/pu/vid/480x984/TDP7vzTuDafGsAF7.mp4?tag=12"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615248320720404481/pu/pl/rQpQym-FyCak7fHI.m3u8?tag=12&container=fmp4"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 624,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 585,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 332,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1615248320745668608,
+                        "id_str": "1615248320745668608",
+                        "indices": [
+                            279,
+                            302
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmqDyi4XgAA7aXc.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmqDyi4XgAA7aXc.jpg",
+                        "url": "https://t.co/rA7B3y248z",
+                        "display_url": "pic.twitter.com/rA7B3y248z",
+                        "expanded_url": "https://twitter.com/GillyMeeky/status/1615248388034908161/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 870,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 510,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 289,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 11,
+        "reply_count": 11,
+        "retweet_count": 618,
+        "favorite_count": 772,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/cKXcPJM3xY",
+                    "expanded_url": "https://twitter.com/i/web/status/1615248388034908161",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "GillyMeeky",
+                "name": "Gill Meek",
+                "id": 242030341,
+                "id_str": "242030341",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023872355"
+}

@@ -1,0 +1,356 @@
+{
+    "created_at": "Wed Jan 18 06:37:43 +0000 2023",
+    "id": 1615599297168375808,
+    "id_str": "1615599297168375808",
+    "text": "RT @PVFCFoundation: 🌳 | Funso Ojo challenges you! \nCan you score more Green Goals than Funso?! If you can, your name will be entered into a…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2327137170,
+        "id_str": "2327137170",
+        "name": "Saint Nathaniel's",
+        "screen_name": "StNathaniels",
+        "location": "Burslem, S-O-T",
+        "url": "http://www.saintnathaniels.org.uk",
+        "description": "With God all things are possible.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 1006,
+        "friends_count": 461,
+        "listed_count": 39,
+        "favourites_count": 3429,
+        "statuses_count": 5750,
+        "created_at": "Tue Feb 04 13:41:46 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1459177264218837005/d99FmbmR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1459177264218837005/d99FmbmR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2327137170/1663660112",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 16:17:19 +0000 2023",
+        "id": 1615382772498964481,
+        "id_str": "1615382772498964481",
+        "text": "🌳 | Funso Ojo challenges you! \nCan you score more Green Goals than Funso?! If you can, your name will be entered in… https://t.co/e0M6QS6AZ7",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://metricool.com\" rel=\"nofollow\">Metricool</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 750693882913062912,
+            "id_str": "750693882913062912",
+            "name": "Port Vale Foundation",
+            "screen_name": "PVFCFoundation",
+            "location": "Vale Park, Burslem",
+            "url": "http://www.portvalefoundation.co.uk",
+            "description": "Using the power of football to Engage, Inspire and Motivate our communities | The official charity of @OfficialPVFC | Foundation.Trust@Port-Vale.co.uk",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 3246,
+            "friends_count": 587,
+            "listed_count": 10,
+            "favourites_count": 724,
+            "statuses_count": 5035,
+            "created_at": "Wed Jul 06 14:12:24 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1389476088254959616/wwydfqnc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389476088254959616/wwydfqnc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/750693882913062912/1643328866",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "🌳 | Funso Ojo challenges you! \nCan you score more Green Goals than Funso?! If you can, your name will be entered into a raffle for your chance to win a signed Port Vale Shirt!\n\nSign up now!\nhttps://t.co/bChmykogg3\n\n#GreenFootballCup #GreenFootballWeekend @PlanetLge\n⚫️⚪️🟢 https://t.co/iaGyumRRPD",
+            "display_text_range": [
+                0,
+                271
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "GreenFootballCup",
+                        "indices": [
+                            215,
+                            232
+                        ]
+                    },
+                    {
+                        "text": "GreenFootballWeekend",
+                        "indices": [
+                            233,
+                            254
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/bChmykogg3",
+                        "expanded_url": "https://planetleague.co.uk/",
+                        "display_url": "planetleague.co.uk",
+                        "indices": [
+                            190,
+                            213
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "PlanetLge",
+                        "name": "Planet League",
+                        "id": 1092324861765144576,
+                        "id_str": "1092324861765144576",
+                        "indices": [
+                            255,
+                            265
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615382740441993217,
+                        "id_str": "1615382740441993217",
+                        "indices": [
+                            272,
+                            295
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1615382740441993217/pu/img/LE6PKxoui7QTB7le.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1615382740441993217/pu/img/LE6PKxoui7QTB7le.jpg",
+                        "url": "https://t.co/iaGyumRRPD",
+                        "display_url": "pic.twitter.com/iaGyumRRPD",
+                        "expanded_url": "https://twitter.com/PVFCFoundation/status/1615382772498964481/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                30,
+                                53
+                            ],
+                            "duration_millis": 23100,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615382740441993217/pu/pl/nmIU6zJb7BO8AYPb.m3u8?tag=12&container=fmp4"
+                                },
+                                {
+                                    "bitrate": 632000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615382740441993217/pu/vid/320x564/vOGEBEhIelqMpvvl.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 950000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615382740441993217/pu/vid/480x848/c81lIu5Q-ZWdEzqT.mp4?tag=12"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 480,
+                                "h": 848,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 385,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 480,
+                                "h": 848,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615382740441993217,
+                        "id_str": "1615382740441993217",
+                        "indices": [
+                            272,
+                            295
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1615382740441993217/pu/img/LE6PKxoui7QTB7le.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1615382740441993217/pu/img/LE6PKxoui7QTB7le.jpg",
+                        "url": "https://t.co/iaGyumRRPD",
+                        "display_url": "pic.twitter.com/iaGyumRRPD",
+                        "expanded_url": "https://twitter.com/PVFCFoundation/status/1615382772498964481/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                30,
+                                53
+                            ],
+                            "duration_millis": 23100,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615382740441993217/pu/pl/nmIU6zJb7BO8AYPb.m3u8?tag=12&container=fmp4"
+                                },
+                                {
+                                    "bitrate": 632000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615382740441993217/pu/vid/320x564/vOGEBEhIelqMpvvl.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 950000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615382740441993217/pu/vid/480x848/c81lIu5Q-ZWdEzqT.mp4?tag=12"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 480,
+                                "h": 848,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 385,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 480,
+                                "h": 848,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 5,
+        "favorite_count": 21,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/e0M6QS6AZ7",
+                    "expanded_url": "https://twitter.com/i/web/status/1615382772498964481",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "PVFCFoundation",
+                "name": "Port Vale Foundation",
+                "id": 750693882913062912,
+                "id_str": "750693882913062912",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023863485"
+}

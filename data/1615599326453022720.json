@@ -1,0 +1,535 @@
+{
+    "created_at": "Wed Jan 18 06:37:50 +0000 2023",
+    "id": 1615599326453022720,
+    "id_str": "1615599326453022720",
+    "text": "RT @stkirsch: Another tragic death: died suddenly. I wrote an article on my substack estimating that over 50 million people have suffered c…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1348554041945690112,
+        "id_str": "1348554041945690112",
+        "name": "African",
+        "screen_name": "quentin33287364",
+        "location": null,
+        "url": null,
+        "description": "just checking......",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 232,
+        "friends_count": 679,
+        "listed_count": 0,
+        "favourites_count": 43400,
+        "statuses_count": 34325,
+        "created_at": "Mon Jan 11 08:55:33 +0000 2021",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1461781681300545542/oEpf2mlR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1461781681300545542/oEpf2mlR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1348554041945690112/1610396130",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 18:19:53 +0000 2023",
+        "id": 1615413616722993153,
+        "id_str": "1615413616722993153",
+        "text": "Another tragic death: died suddenly. I wrote an article on my substack estimating that over 50 million people have… https://t.co/TdmJAg6Z54",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 37491797,
+            "id_str": "37491797",
+            "name": "Steve Kirsch",
+            "screen_name": "stkirsch",
+            "location": "Los Altos Hills, CA",
+            "url": "https://stevekirsch.substack.com",
+            "description": "Truth-teller, critical thinker, founder COVID-19 Early Treatment Fund (CETF). Vaccine Safety Research Foundation, entrepreneur, philanthropist, environmentalist",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 215907,
+            "friends_count": 157,
+            "listed_count": 1029,
+            "favourites_count": 2742,
+            "statuses_count": 3427,
+            "created_at": "Sun May 03 20:17:34 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/199472043/kirsch_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/199472043/kirsch_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/37491797/1673148217",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1614702289813471240,
+        "quoted_status_id_str": "1614702289813471240",
+        "quoted_status": {
+            "created_at": "Sun Jan 15 19:13:20 +0000 2023",
+            "id": 1614702289813471240,
+            "id_str": "1614702289813471240",
+            "text": "Award Winning Chef, Gary Goldie, 48, Dies Suddenly During Work\n\nhttps://t.co/K4JBJD02en https://t.co/gaqiQpZwRO",
+            "display_text_range": [
+                0,
+                87
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1478792963090169860,
+                "id_str": "1478792963090169860",
+                "name": "James Cintolo, RN FN CPT",
+                "screen_name": "healthbyjames",
+                "location": "Boston, Ma",
+                "url": "https://jamescintolo.substack.com",
+                "description": "Expert on medical & nutritional health 💡tweets don’t reflect employers opinions",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "verified_type": "blue",
+                "followers_count": 52620,
+                "friends_count": 175,
+                "listed_count": 326,
+                "favourites_count": 3353,
+                "statuses_count": 5877,
+                "created_at": "Wed Jan 05 18:18:18 +0000 2022",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1478793420785258505/IyMSZowM_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478793420785258505/IyMSZowM_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1478792963090169860/1643485088",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 336,
+            "reply_count": 729,
+            "retweet_count": 5015,
+            "favorite_count": 8724,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/K4JBJD02en",
+                        "expanded_url": "https://www.dailyrecord.co.uk/ayrshire/tributes-award-winning-chef-expert-28958836",
+                        "display_url": "dailyrecord.co.uk/ayrshire/tribu…",
+                        "indices": [
+                            64,
+                            87
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1614702286994915328,
+                        "id_str": "1614702286994915328",
+                        "indices": [
+                            88,
+                            111
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmiTLMpXwAAaYHc.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmiTLMpXwAAaYHc.jpg",
+                        "url": "https://t.co/gaqiQpZwRO",
+                        "display_url": "pic.twitter.com/gaqiQpZwRO",
+                        "expanded_url": "https://twitter.com/healthbyjames/status/1614702289813471240/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1170,
+                                "h": 777,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 452,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1170,
+                                "h": 777,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1614702286994915328,
+                        "id_str": "1614702286994915328",
+                        "indices": [
+                            88,
+                            111
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmiTLMpXwAAaYHc.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmiTLMpXwAAaYHc.jpg",
+                        "url": "https://t.co/gaqiQpZwRO",
+                        "display_url": "pic.twitter.com/gaqiQpZwRO",
+                        "expanded_url": "https://twitter.com/healthbyjames/status/1614702289813471240/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1170,
+                                "h": 777,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 452,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1170,
+                                "h": 777,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/r1yJzr2SOk",
+            "expanded": "https://twitter.com/healthbyjames/status/1614702289813471240",
+            "display": "twitter.com/healthbyjames/…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Another tragic death: died suddenly. I wrote an article on my substack estimating that over 50 million people have suffered cardiac injury from the vaccine. This might have contributed to his death. Tragically, there are never proper autopsies in these cases.",
+            "display_text_range": [
+                0,
+                259
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 12,
+        "reply_count": 25,
+        "retweet_count": 195,
+        "favorite_count": 494,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/TdmJAg6Z54",
+                    "expanded_url": "https://twitter.com/i/web/status/1615413616722993153",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1614702289813471240,
+    "quoted_status_id_str": "1614702289813471240",
+    "quoted_status": {
+        "created_at": "Sun Jan 15 19:13:20 +0000 2023",
+        "id": 1614702289813471240,
+        "id_str": "1614702289813471240",
+        "text": "Award Winning Chef, Gary Goldie, 48, Dies Suddenly During Work\n\nhttps://t.co/K4JBJD02en https://t.co/gaqiQpZwRO",
+        "display_text_range": [
+            0,
+            87
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1478792963090169860,
+            "id_str": "1478792963090169860",
+            "name": "James Cintolo, RN FN CPT",
+            "screen_name": "healthbyjames",
+            "location": "Boston, Ma",
+            "url": "https://jamescintolo.substack.com",
+            "description": "Expert on medical & nutritional health 💡tweets don’t reflect employers opinions",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 52620,
+            "friends_count": 175,
+            "listed_count": 326,
+            "favourites_count": 3353,
+            "statuses_count": 5877,
+            "created_at": "Wed Jan 05 18:18:18 +0000 2022",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1478793420785258505/IyMSZowM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478793420785258505/IyMSZowM_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1478792963090169860/1643485088",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 336,
+        "reply_count": 729,
+        "retweet_count": 5015,
+        "favorite_count": 8724,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/K4JBJD02en",
+                    "expanded_url": "https://www.dailyrecord.co.uk/ayrshire/tributes-award-winning-chef-expert-28958836",
+                    "display_url": "dailyrecord.co.uk/ayrshire/tribu…",
+                    "indices": [
+                        64,
+                        87
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1614702286994915328,
+                    "id_str": "1614702286994915328",
+                    "indices": [
+                        88,
+                        111
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FmiTLMpXwAAaYHc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FmiTLMpXwAAaYHc.jpg",
+                    "url": "https://t.co/gaqiQpZwRO",
+                    "display_url": "pic.twitter.com/gaqiQpZwRO",
+                    "expanded_url": "https://twitter.com/healthbyjames/status/1614702289813471240/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1170,
+                            "h": 777,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 452,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1170,
+                            "h": 777,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1614702286994915328,
+                    "id_str": "1614702286994915328",
+                    "indices": [
+                        88,
+                        111
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FmiTLMpXwAAaYHc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FmiTLMpXwAAaYHc.jpg",
+                    "url": "https://t.co/gaqiQpZwRO",
+                    "display_url": "pic.twitter.com/gaqiQpZwRO",
+                    "expanded_url": "https://twitter.com/healthbyjames/status/1614702289813471240/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1170,
+                            "h": 777,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 452,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1170,
+                            "h": 777,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/r1yJzr2SOk",
+        "expanded": "https://twitter.com/healthbyjames/status/1614702289813471240",
+        "display": "twitter.com/healthbyjames/…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "stkirsch",
+                "name": "Steve Kirsch",
+                "id": 37491797,
+                "id_str": "37491797",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023870467"
+}

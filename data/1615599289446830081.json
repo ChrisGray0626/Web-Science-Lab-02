@@ -1,0 +1,236 @@
+{
+    "created_at": "Wed Jan 18 06:37:41 +0000 2023",
+    "id": 1615599289446830081,
+    "id_str": "1615599289446830081",
+    "text": "RT @mingall63: If @BBCNews won't tell the story of a Conservative Chancellor who didn't pay his tax, threatened journalists to keep it quie…",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 939565872,
+        "id_str": "939565872",
+        "name": "Steve 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇺 🏳️‍🌈",
+        "screen_name": "stevethain",
+        "location": "Scotland",
+        "url": null,
+        "description": "“We look to Scotland for all our ideas of civilisation.” French philosopher Voltaire (1694-1778).",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 3849,
+        "friends_count": 3529,
+        "listed_count": 5,
+        "favourites_count": 160767,
+        "statuses_count": 101766,
+        "created_at": "Sat Nov 10 17:49:41 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1522969830932066304/l-07Ohv9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1522969830932066304/l-07Ohv9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/939565872/1643170819",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 16:05:21 +0000 2023",
+        "id": 1615379757738217472,
+        "id_str": "1615379757738217472",
+        "text": "If @BBCNews won't tell the story of a Conservative Chancellor who didn't pay his tax, threatened journalists to kee… https://t.co/wzLa2BDINL",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 777534988703133696,
+            "id_str": "777534988703133696",
+            "name": "Mark Ingall lives in Bush Fair",
+            "screen_name": "mingall63",
+            "location": "South East, England",
+            "url": null,
+            "description": "Resident of Bush Fair, Harlow. Former Labour leader of Harlow Council, trade unionist and campaigner for a Labour led government  Also COYS.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 13415,
+            "friends_count": 13457,
+            "listed_count": 18,
+            "favourites_count": 6526,
+            "statuses_count": 16153,
+            "created_at": "Sun Sep 18 15:49:22 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1598656489484439553/yvVpXJrO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1598656489484439553/yvVpXJrO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/777534988703133696/1655632773",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "If @BBCNews won't tell the story of a Conservative Chancellor who didn't pay his tax, threatened journalists to keep it quiet &amp; was eventually forced to hand over £3 million, then we will have to keep it in the public eye.\nPlease retweet.\n#ToryTaxEvasion\n\nhttps://t.co/ngKWdxPXQn",
+            "display_text_range": [
+                0,
+                283
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ToryTaxEvasion",
+                        "indices": [
+                            243,
+                            258
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/ngKWdxPXQn",
+                        "expanded_url": "https://www.theguardian.com/uk-news/2023/jan/15/nadhim-zahawi-to-pay-millions-in-tax-after-dispute-over-family-finances?CMP=Share_AndroidApp_Other",
+                        "display_url": "theguardian.com/uk-news/2023/j…",
+                        "indices": [
+                            260,
+                            283
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "BBCNews",
+                        "name": "BBC News (UK)",
+                        "id": 612473,
+                        "id_str": "612473",
+                        "indices": [
+                            3,
+                            11
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 12,
+        "reply_count": 22,
+        "retweet_count": 914,
+        "favorite_count": 897,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/wzLa2BDINL",
+                    "expanded_url": "https://twitter.com/i/web/status/1615379757738217472",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "BBCNews",
+                    "name": "BBC News (UK)",
+                    "id": 612473,
+                    "id_str": "612473",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "mingall63",
+                "name": "Mark Ingall lives in Bush Fair",
+                "id": 777534988703133696,
+                "id_str": "777534988703133696",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "BBCNews",
+                "name": "BBC News (UK)",
+                "id": 612473,
+                "id_str": "612473",
+                "indices": [
+                    18,
+                    26
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023861644"
+}

@@ -1,0 +1,352 @@
+{
+    "created_at": "Wed Jan 18 06:37:41 +0000 2023",
+    "id": 1615599290629382144,
+    "id_str": "1615599290629382144",
+    "text": "RT @Reuters: Porn actor Ron Jeremy found mentally incompetent to stand trial for rape https://t.co/Go73dhYowf https://t.co/BIsEsBplQW",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 162862124,
+        "id_str": "162862124",
+        "name": "Andika",
+        "screen_name": "Nyantho",
+        "location": "Ile-de-France, France",
+        "url": "http://andika.fr",
+        "description": "Un peu blogueur culture, un peu juriste, un peu acheteur et très mélomane🎼. Joueur d'échecs. Passé par @UnivParisSaclay 🎓 (300 ects). Tribun émérite.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 3434,
+        "friends_count": 4914,
+        "listed_count": 144,
+        "favourites_count": 99496,
+        "statuses_count": 336903,
+        "created_at": "Sun Jul 04 22:30:33 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1017131751007838208/pPChuGel_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017131751007838208/pPChuGel_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/162862124/1446378658",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jan 18 06:35:31 +0000 2023",
+        "id": 1615598742362521601,
+        "id_str": "1615598742362521601",
+        "text": "Porn actor Ron Jeremy found mentally incompetent to stand trial for rape https://t.co/Go73dhYowf https://t.co/BIsEsBplQW",
+        "display_text_range": [
+            0,
+            96
+        ],
+        "source": "<a href=\"https://trueanthem.com/\" rel=\"nofollow\">True Anthem</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1652541,
+            "id_str": "1652541",
+            "name": "Reuters",
+            "screen_name": "Reuters",
+            "location": "Around the world",
+            "url": "http://www.reuters.com",
+            "description": "Top and breaking news, pictures and videos from Reuters. For more breaking business news, follow @ReutersBiz.",
+            "translator_type": "regular",
+            "protected": false,
+            "verified": true,
+            "verified_type": "business",
+            "followers_count": 25710396,
+            "friends_count": 1230,
+            "listed_count": 135995,
+            "favourites_count": 742,
+            "statuses_count": 962459,
+            "created_at": "Tue Mar 20 17:46:05 +0000 2007",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "444444",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "006F97",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "F5F5F5",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1573687397",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 2,
+        "reply_count": 2,
+        "retweet_count": 5,
+        "favorite_count": 5,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Go73dhYowf",
+                    "expanded_url": "http://reut.rs/3QLKve2",
+                    "display_url": "reut.rs/3QLKve2",
+                    "indices": [
+                        73,
+                        96
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1615598740684906497,
+                    "id_str": "1615598740684906497",
+                    "indices": [
+                        97,
+                        120
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FmvCfq4XoAEtZel.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FmvCfq4XoAEtZel.jpg",
+                    "url": "https://t.co/BIsEsBplQW",
+                    "display_url": "pic.twitter.com/BIsEsBplQW",
+                    "expanded_url": "https://twitter.com/Reuters/status/1615598742362521601/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 628,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 628,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 356,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1615598740684906497,
+                    "id_str": "1615598740684906497",
+                    "indices": [
+                        97,
+                        120
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FmvCfq4XoAEtZel.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FmvCfq4XoAEtZel.jpg",
+                    "url": "https://t.co/BIsEsBplQW",
+                    "display_url": "pic.twitter.com/BIsEsBplQW",
+                    "expanded_url": "https://twitter.com/Reuters/status/1615598742362521601/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 628,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 628,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 356,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Go73dhYowf",
+                "expanded_url": "http://reut.rs/3QLKve2",
+                "display_url": "reut.rs/3QLKve2",
+                "indices": [
+                    86,
+                    109
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Reuters",
+                "name": "Reuters",
+                "id": 1652541,
+                "id_str": "1652541",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1615598740684906497,
+                "id_str": "1615598740684906497",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/FmvCfq4XoAEtZel.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/FmvCfq4XoAEtZel.jpg",
+                "url": "https://t.co/BIsEsBplQW",
+                "display_url": "pic.twitter.com/BIsEsBplQW",
+                "expanded_url": "https://twitter.com/Reuters/status/1615598742362521601/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 628,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 628,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 356,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1615598742362521601,
+                "source_status_id_str": "1615598742362521601",
+                "source_user_id": 1652541,
+                "source_user_id_str": "1652541"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1615598740684906497,
+                "id_str": "1615598740684906497",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/FmvCfq4XoAEtZel.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/FmvCfq4XoAEtZel.jpg",
+                "url": "https://t.co/BIsEsBplQW",
+                "display_url": "pic.twitter.com/BIsEsBplQW",
+                "expanded_url": "https://twitter.com/Reuters/status/1615598742362521601/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 628,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 628,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 356,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1615598742362521601,
+                "source_status_id_str": "1615598742362521601",
+                "source_user_id": 1652541,
+                "source_user_id_str": "1652541"
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023861926"
+}

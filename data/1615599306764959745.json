@@ -1,0 +1,227 @@
+{
+    "created_at": "Wed Jan 18 06:37:45 +0000 2023",
+    "id": 1615599306764959745,
+    "id_str": "1615599306764959745",
+    "text": "Oxford Africa is running this Bootcamp focused on Flutter. Flutter, created by Google is the most demanded cross-pl… https://t.co/RJ8B9KsBIP",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2881047467,
+        "id_str": "2881047467",
+        "name": "joyp_alinah",
+        "screen_name": "alinah_joyp",
+        "location": "nairobi",
+        "url": null,
+        "description": "#livelife",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 19,
+        "friends_count": 17,
+        "listed_count": 0,
+        "favourites_count": 23,
+        "statuses_count": 464,
+        "created_at": "Mon Nov 17 14:11:29 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1392932631940055043/kZs1x6Q1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392932631940055043/kZs1x6Q1_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Oxford Africa is running this Bootcamp focused on Flutter. Flutter, created by Google is the most demanded cross-platform mobile app development framework. View More on Syllabus, Fees and Enroll now here: https://t.co/vZBXq297M6 \n#Coding #programmers #Muranga #Bouncers #Kitengela https://t.co/puJHzADmXO",
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Coding",
+                    "indices": [
+                        230,
+                        237
+                    ]
+                },
+                {
+                    "text": "programmers",
+                    "indices": [
+                        238,
+                        250
+                    ]
+                },
+                {
+                    "text": "Muranga",
+                    "indices": [
+                        251,
+                        259
+                    ]
+                },
+                {
+                    "text": "Bouncers",
+                    "indices": [
+                        260,
+                        269
+                    ]
+                },
+                {
+                    "text": "Kitengela",
+                    "indices": [
+                        270,
+                        280
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/vZBXq297M6",
+                    "expanded_url": "https://oxfordafrica.org/coding/beginners-flutter-developer-bootcamp/",
+                    "display_url": "oxfordafrica.org/coding/beginne…",
+                    "indices": [
+                        205,
+                        228
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1615598827485945856,
+                    "id_str": "1615598827485945856",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FmvCkuPWYAAOcOa.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FmvCkuPWYAAOcOa.jpg",
+                    "url": "https://t.co/puJHzADmXO",
+                    "display_url": "pic.twitter.com/puJHzADmXO",
+                    "expanded_url": "https://twitter.com/alinah_joyp/status/1615599306764959745/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1046,
+                            "h": 1045,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1046,
+                            "h": 1045,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 679,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1615598827485945856,
+                    "id_str": "1615598827485945856",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FmvCkuPWYAAOcOa.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FmvCkuPWYAAOcOa.jpg",
+                    "url": "https://t.co/puJHzADmXO",
+                    "display_url": "pic.twitter.com/puJHzADmXO",
+                    "expanded_url": "https://twitter.com/alinah_joyp/status/1615599306764959745/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1046,
+                            "h": 1045,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1046,
+                            "h": 1045,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 679,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/RJ8B9KsBIP",
+                "expanded_url": "https://twitter.com/i/web/status/1615599306764959745",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023865773"
+}

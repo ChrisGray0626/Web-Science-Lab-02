@@ -1,0 +1,340 @@
+{
+    "created_at": "Wed Jan 18 06:37:48 +0000 2023",
+    "id": 1615599318974480385,
+    "id_str": "1615599318974480385",
+    "text": "RT @novieverest: Sky News said the UK has never witnessed what Peter Obi brought to Chatham House before.\n\nThe PO effect.\n\nGood morning OBI…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 782940468220944385,
+        "id_str": "782940468220944385",
+        "name": "Valerian Nnamani",
+        "screen_name": "NnamaniValerian",
+        "location": "Lagos, Nigeria",
+        "url": null,
+        "description": "Entrepreneur, product management.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 1292,
+        "friends_count": 1496,
+        "listed_count": 5,
+        "favourites_count": 80620,
+        "statuses_count": 70141,
+        "created_at": "Mon Oct 03 13:48:48 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1542131158179368963/lz06uWRT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1542131158179368963/lz06uWRT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/782940468220944385/1612859658",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jan 18 05:51:29 +0000 2023",
+        "id": 1615587664014749696,
+        "id_str": "1615587664014749696",
+        "text": "Sky News said the UK has never witnessed what Peter Obi brought to Chatham House before.\n\nThe PO effect.\n\nGood morn… https://t.co/3FpbEd58iG",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 985555685508337665,
+            "id_str": "985555685508337665",
+            "name": "DISTINGUISHED Everest",
+            "screen_name": "novieverest",
+            "location": "Nigeria",
+            "url": null,
+            "description": "I'm Everest. I'm a patriotic citizen. Loyal to a fault. Truth always stands the test of time.\nI'm a believer. A believer of Jesus Christ. \n\nPEACE AMBASSADOR.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 22057,
+            "friends_count": 4186,
+            "listed_count": 25,
+            "favourites_count": 20119,
+            "statuses_count": 44129,
+            "created_at": "Sun Apr 15 16:29:20 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1536224179556691969/ABgKpZni_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1536224179556691969/ABgKpZni_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/985555685508337665/1598568947",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Sky News said the UK has never witnessed what Peter Obi brought to Chatham House before.\n\nThe PO effect.\n\nGood morning OBIdients. https://t.co/xQzS2WvL3C",
+            "display_text_range": [
+                0,
+                129
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615587082801451008,
+                        "id_str": "1615587082801451008",
+                        "indices": [
+                            130,
+                            153
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Fmu35F4XEAAcrXZ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Fmu35F4XEAAcrXZ.jpg",
+                        "url": "https://t.co/xQzS2WvL3C",
+                        "display_url": "pic.twitter.com/xQzS2WvL3C",
+                        "expanded_url": "https://twitter.com/novieverest/status/1615587664014749696/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 652,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1080,
+                                "h": 1035,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1035,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1615587385646977025,
+                        "id_str": "1615587385646977025",
+                        "indices": [
+                            130,
+                            153
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Fmu4KuEXEAELemX.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Fmu4KuEXEAELemX.jpg",
+                        "url": "https://t.co/xQzS2WvL3C",
+                        "display_url": "pic.twitter.com/xQzS2WvL3C",
+                        "expanded_url": "https://twitter.com/novieverest/status/1615587664014749696/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 566,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 720,
+                                "h": 865,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 865,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615587082801451008,
+                        "id_str": "1615587082801451008",
+                        "indices": [
+                            130,
+                            153
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Fmu35F4XEAAcrXZ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Fmu35F4XEAAcrXZ.jpg",
+                        "url": "https://t.co/xQzS2WvL3C",
+                        "display_url": "pic.twitter.com/xQzS2WvL3C",
+                        "expanded_url": "https://twitter.com/novieverest/status/1615587664014749696/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 652,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1080,
+                                "h": 1035,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1035,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1615587385646977025,
+                        "id_str": "1615587385646977025",
+                        "indices": [
+                            130,
+                            153
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Fmu4KuEXEAELemX.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Fmu4KuEXEAELemX.jpg",
+                        "url": "https://t.co/xQzS2WvL3C",
+                        "display_url": "pic.twitter.com/xQzS2WvL3C",
+                        "expanded_url": "https://twitter.com/novieverest/status/1615587664014749696/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 566,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 720,
+                                "h": 865,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 865,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 51,
+        "favorite_count": 124,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3FpbEd58iG",
+                    "expanded_url": "https://twitter.com/i/web/status/1615587664014749696",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "novieverest",
+                "name": "DISTINGUISHED Everest",
+                "id": 985555685508337665,
+                "id_str": "985555685508337665",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023868684"
+}

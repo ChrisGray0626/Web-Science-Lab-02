@@ -1,0 +1,337 @@
+{
+    "created_at": "Wed Jan 18 06:37:48 +0000 2023",
+    "id": 1615599318609661952,
+    "id_str": "1615599318609661952",
+    "text": "RT @PeterObi: Yesterday, I met with the Minister of State for Development and Africa, Rt Hon. @AndrewmitchMP, in London. -PO https://t.co/T…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 258525473,
+        "id_str": "258525473",
+        "name": "Adesola",
+        "screen_name": "Slyrobinho",
+        "location": null,
+        "url": null,
+        "description": "Structural engineer. I love life but Hereafter is the best...Looking forward to making it to Al-jannah, Inshallah.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 608,
+        "friends_count": 1266,
+        "listed_count": 0,
+        "favourites_count": 84541,
+        "statuses_count": 29355,
+        "created_at": "Sun Feb 27 22:45:35 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1162420950098489344/wdPeJa0P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162420950098489344/wdPeJa0P_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/258525473/1565977776",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 18:21:56 +0000 2023",
+        "id": 1615414132588613651,
+        "id_str": "1615414132588613651",
+        "text": "Yesterday, I met with the Minister of State for Development and Africa, Rt Hon. @AndrewmitchMP, in London. -PO https://t.co/TT1M3WpdOD",
+        "display_text_range": [
+            0,
+            110
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1050779471731707904,
+            "id_str": "1050779471731707904",
+            "name": "Peter Obi",
+            "screen_name": "PeterObi",
+            "location": "Nigeria",
+            "url": "http://obidatticampaign.com",
+            "description": "Former Governor, Anambra State. LP Presidential Candidate, 2023. Tweets by him are signed -PO.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "verified_type": "blue",
+            "followers_count": 2797497,
+            "friends_count": 65,
+            "listed_count": 534,
+            "favourites_count": 209,
+            "statuses_count": 2195,
+            "created_at": "Fri Oct 12 16:05:23 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1050783097934020608/2_bhBolN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050783097934020608/2_bhBolN_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 43,
+        "reply_count": 260,
+        "retweet_count": 2530,
+        "favorite_count": 9721,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AndrewmitchMP",
+                    "name": "Rt Hon Andrew Mitchell MP",
+                    "id": 1568570575727075329,
+                    "id_str": "1568570575727075329",
+                    "indices": [
+                        80,
+                        94
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1615414087793377282,
+                    "id_str": "1615414087793377282",
+                    "indices": [
+                        111,
+                        134
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FmsajdQWAAIjTci.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FmsajdQWAAIjTci.jpg",
+                    "url": "https://t.co/TT1M3WpdOD",
+                    "display_url": "pic.twitter.com/TT1M3WpdOD",
+                    "expanded_url": "https://twitter.com/PeterObi/status/1615414132588613651/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1615414087793377282,
+                    "id_str": "1615414087793377282",
+                    "indices": [
+                        111,
+                        134
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FmsajdQWAAIjTci.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FmsajdQWAAIjTci.jpg",
+                    "url": "https://t.co/TT1M3WpdOD",
+                    "display_url": "pic.twitter.com/TT1M3WpdOD",
+                    "expanded_url": "https://twitter.com/PeterObi/status/1615414132588613651/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1615414100791533569,
+                    "id_str": "1615414100791533569",
+                    "indices": [
+                        111,
+                        134
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FmsakNrWIAEay1i.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FmsakNrWIAEay1i.jpg",
+                    "url": "https://t.co/TT1M3WpdOD",
+                    "display_url": "pic.twitter.com/TT1M3WpdOD",
+                    "expanded_url": "https://twitter.com/PeterObi/status/1615414132588613651/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1615414112883720193,
+                    "id_str": "1615414112883720193",
+                    "indices": [
+                        111,
+                        134
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Fmsak6uWQAEnxuS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Fmsak6uWQAEnxuS.jpg",
+                    "url": "https://t.co/TT1M3WpdOD",
+                    "display_url": "pic.twitter.com/TT1M3WpdOD",
+                    "expanded_url": "https://twitter.com/PeterObi/status/1615414132588613651/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "PeterObi",
+                "name": "Peter Obi",
+                "id": 1050779471731707904,
+                "id_str": "1050779471731707904",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "AndrewmitchMP",
+                "name": "Rt Hon Andrew Mitchell MP",
+                "id": 1568570575727075329,
+                "id_str": "1568570575727075329",
+                "indices": [
+                    94,
+                    108
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023868597"
+}

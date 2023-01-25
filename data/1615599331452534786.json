@@ -1,0 +1,340 @@
+{
+    "created_at": "Wed Jan 18 06:37:51 +0000 2023",
+    "id": 1615599331452534786,
+    "id_str": "1615599331452534786",
+    "text": "RT @MetEireann: ⚠️Status Yellow⚠️ - Snow/Ice warning for Cavan, Monaghan, Cork, Kerry, Longford, Louth, Meath, Offaly, Westmeath, Mayo, Ros…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 569939721,
+        "id_str": "569939721",
+        "name": "Kerry Education & Training Board (Kerry ETB)",
+        "screen_name": "KerryETB",
+        "location": "Kerry, Ireland",
+        "url": "http://www.kerryetb.ie",
+        "description": "Kerry ETB provides a comprehensive range of education services throughout Kerry. Retweets & follows are not an endorsement.\nRCN 20083243",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 2299,
+        "friends_count": 694,
+        "listed_count": 18,
+        "favourites_count": 8064,
+        "statuses_count": 2196,
+        "created_at": "Thu May 03 10:18:53 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1554484217698045952/rzn4QKgv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1554484217698045952/rzn4QKgv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/569939721/1659452957",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 11:58:59 +0000 2023",
+        "id": 1615317760426344450,
+        "id_str": "1615317760426344450",
+        "text": "⚠️Status Yellow⚠️ - Snow/Ice warning for Cavan, Monaghan, Cork, Kerry, Longford, Louth, Meath, Offaly, Westmeath, M… https://t.co/6rs3sF3ZwO",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 74394857,
+            "id_str": "74394857",
+            "name": "Met Éireann",
+            "screen_name": "MetEireann",
+            "location": "Ireland",
+            "url": "https://www.met.ie/",
+            "description": "The Irish Meteorological Service",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "verified_type": "government",
+            "followers_count": 344150,
+            "friends_count": 175,
+            "listed_count": 938,
+            "favourites_count": 1866,
+            "statuses_count": 38425,
+            "created_at": "Tue Sep 15 07:49:43 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "008C95",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/669810077688340480/JUFOv2zQ_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/669810077688340480/JUFOv2zQ_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/74394857/1661987931",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "⚠️Status Yellow⚠️ - Snow/Ice warning for Cavan, Monaghan, Cork, Kerry, Longford, Louth, Meath, Offaly, Westmeath, Mayo, Roscommon❄️🌨️\n\nSee detail of all active warnings and advisories ➡️https://t.co/l8JdKfwZt9 https://t.co/xIL4XjEujT",
+            "display_text_range": [
+                0,
+                209
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/l8JdKfwZt9",
+                        "expanded_url": "https://www.met.ie/warnings/tomorrow",
+                        "display_url": "met.ie/warnings/tomor…",
+                        "indices": [
+                            186,
+                            209
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615317301330382848,
+                        "id_str": "1615317301330382848",
+                        "indices": [
+                            210,
+                            233
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1615317301330382848/pu/img/h3B2MGvzUNgmUSHS.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1615317301330382848/pu/img/h3B2MGvzUNgmUSHS.jpg",
+                        "url": "https://t.co/xIL4XjEujT",
+                        "display_url": "pic.twitter.com/xIL4XjEujT",
+                        "expanded_url": "https://twitter.com/MetEireann/status/1615317760426344450/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                1,
+                                1
+                            ],
+                            "duration_millis": 5038,
+                            "variants": [
+                                {
+                                    "bitrate": 1280000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615317301330382848/pu/vid/720x720/tsLaUJwoFbj8BYr0.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 432000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615317301330382848/pu/vid/320x320/WD1h9lyKHpXQL72B.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615317301330382848/pu/vid/540x540/pAIucu4MHnTe6Ff8.mp4?tag=12"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615317301330382848/pu/pl/Se1Qc_CcLiSLVZhw.m3u8?tag=12&container=fmp4"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 720,
+                                "h": 720,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615317301330382848,
+                        "id_str": "1615317301330382848",
+                        "indices": [
+                            210,
+                            233
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1615317301330382848/pu/img/h3B2MGvzUNgmUSHS.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1615317301330382848/pu/img/h3B2MGvzUNgmUSHS.jpg",
+                        "url": "https://t.co/xIL4XjEujT",
+                        "display_url": "pic.twitter.com/xIL4XjEujT",
+                        "expanded_url": "https://twitter.com/MetEireann/status/1615317760426344450/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                1,
+                                1
+                            ],
+                            "duration_millis": 5038,
+                            "variants": [
+                                {
+                                    "bitrate": 1280000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615317301330382848/pu/vid/720x720/tsLaUJwoFbj8BYr0.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 432000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615317301330382848/pu/vid/320x320/WD1h9lyKHpXQL72B.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615317301330382848/pu/vid/540x540/pAIucu4MHnTe6Ff8.mp4?tag=12"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615317301330382848/pu/pl/Se1Qc_CcLiSLVZhw.m3u8?tag=12&container=fmp4"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 720,
+                                "h": 720,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 2,
+        "reply_count": 2,
+        "retweet_count": 24,
+        "favorite_count": 50,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/6rs3sF3ZwO",
+                    "expanded_url": "https://twitter.com/i/web/status/1615317760426344450",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "MetEireann",
+                "name": "Met Éireann",
+                "id": 74394857,
+                "id_str": "74394857",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023871659"
+}

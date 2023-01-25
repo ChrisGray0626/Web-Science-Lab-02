@@ -1,0 +1,330 @@
+{
+    "created_at": "Wed Jan 18 06:37:45 +0000 2023",
+    "id": 1615599306357997569,
+    "id_str": "1615599306357997569",
+    "text": "RT @AngelaRayner: The Tories have gone from clapping nurses to sacking them. Labour will vote against their shoddy, unworkable Bill and def…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 142716265,
+        "id_str": "142716265",
+        "name": "Guy Longworth",
+        "screen_name": "GuyLongworth",
+        "location": null,
+        "url": "https://warwick.ac.uk/fac/soc/philosophy/people/longworth/",
+        "description": "Naive, nonstop, peep-peep twitter of chicks in dismal crates late, late at night, on a desolate frost-bedimmed station platform @philoswarwick @aristotweets",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 13372,
+        "friends_count": 10196,
+        "listed_count": 321,
+        "favourites_count": 411693,
+        "statuses_count": 310185,
+        "created_at": "Tue May 11 15:26:31 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505260283745816576/2m5GCXJA_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/505260283745816576/2m5GCXJA_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/142716265/1592121734",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jan 16 20:21:35 +0000 2023",
+        "id": 1615081856424357888,
+        "id_str": "1615081856424357888",
+        "text": "The Tories have gone from clapping nurses to sacking them. Labour will vote against their shoddy, unworkable Bill a… https://t.co/qrDuwgs482",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 222748037,
+            "id_str": "222748037",
+            "name": "Angela Rayner 🌹",
+            "screen_name": "AngelaRayner",
+            "location": "Ashton-under-Lyne, England",
+            "url": "https://join.labour.org.uk/",
+            "description": "MP for Ashton under Lyne | Deputy Leader @UKLabour and Shadow First Secretary of State | Shadow Chancellor of the Duchy of Lancaster & SSoS for Future of Work",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "verified_type": "blue",
+            "followers_count": 637398,
+            "friends_count": 4719,
+            "listed_count": 1851,
+            "favourites_count": 26434,
+            "statuses_count": 39347,
+            "created_at": "Sat Dec 04 09:51:49 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "D2425D",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1572140012908544000/LOyiNmoz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1572140012908544000/LOyiNmoz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/222748037/1663662374",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "The Tories have gone from clapping nurses to sacking them. Labour will vote against their shoddy, unworkable Bill and defend the right to strike. https://t.co/DFjg9ynR3T",
+            "display_text_range": [
+                0,
+                145
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615079223227473923,
+                        "id_str": "1615079223227473923",
+                        "indices": [
+                            146,
+                            169
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1615079223227473923/pu/img/YXbJD1ki-44JU2aL.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1615079223227473923/pu/img/YXbJD1ki-44JU2aL.jpg",
+                        "url": "https://t.co/DFjg9ynR3T",
+                        "display_url": "pic.twitter.com/DFjg9ynR3T",
+                        "expanded_url": "https://twitter.com/AngelaRayner/status/1615081856424357888/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                1,
+                                1
+                            ],
+                            "duration_millis": 59280,
+                            "variants": [
+                                {
+                                    "bitrate": 432000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615079223227473923/pu/vid/320x320/JOgK4ljH7QY8k2Cq.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 1280000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615079223227473923/pu/vid/720x720/Kzy9JwEGI5gzP-0s.mp4?tag=12"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615079223227473923/pu/pl/04rt6lfxzJBJvU2M.m3u8?tag=12&container=fmp4"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615079223227473923/pu/vid/540x540/Rk5k0-jBsRbJHZOt.mp4?tag=12"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615079223227473923,
+                        "id_str": "1615079223227473923",
+                        "indices": [
+                            146,
+                            169
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1615079223227473923/pu/img/YXbJD1ki-44JU2aL.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1615079223227473923/pu/img/YXbJD1ki-44JU2aL.jpg",
+                        "url": "https://t.co/DFjg9ynR3T",
+                        "display_url": "pic.twitter.com/DFjg9ynR3T",
+                        "expanded_url": "https://twitter.com/AngelaRayner/status/1615081856424357888/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                1,
+                                1
+                            ],
+                            "duration_millis": 59280,
+                            "variants": [
+                                {
+                                    "bitrate": 432000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615079223227473923/pu/vid/320x320/JOgK4ljH7QY8k2Cq.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 1280000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615079223227473923/pu/vid/720x720/Kzy9JwEGI5gzP-0s.mp4?tag=12"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615079223227473923/pu/pl/04rt6lfxzJBJvU2M.m3u8?tag=12&container=fmp4"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1615079223227473923/pu/vid/540x540/Rk5k0-jBsRbJHZOt.mp4?tag=12"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 66,
+        "reply_count": 406,
+        "retweet_count": 1145,
+        "favorite_count": 6802,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/qrDuwgs482",
+                    "expanded_url": "https://twitter.com/i/web/status/1615081856424357888",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "AngelaRayner",
+                "name": "Angela Rayner 🌹",
+                "id": 222748037,
+                "id_str": "222748037",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023865676"
+}

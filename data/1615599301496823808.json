@@ -1,0 +1,515 @@
+{
+    "created_at": "Wed Jan 18 06:37:44 +0000 2023",
+    "id": 1615599301496823808,
+    "id_str": "1615599301496823808",
+    "text": "RT @6hostDawg: @formulainu $FINU #1 Trusted #brandtoken 🏁🔥🏆🔥🏁\n\nTrusted more then $TSUKA $SHIB $KIBA  and $FLOKI\n\nDATA DOES NOT LIE!\n\n#Racin…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1302164615237980160,
+        "id_str": "1302164615237980160",
+        "name": "Crypto-eagle",
+        "screen_name": "geenen_jeroen",
+        "location": null,
+        "url": null,
+        "description": "KIBA❤️🚀",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 135,
+        "friends_count": 216,
+        "listed_count": 1,
+        "favourites_count": 13456,
+        "statuses_count": 4004,
+        "created_at": "Sat Sep 05 08:40:21 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1462311391956807685/Qtftm1Z3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1462311391956807685/Qtftm1Z3_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 18:01:32 +0000 2023",
+        "id": 1615408997691174913,
+        "id_str": "1615408997691174913",
+        "text": "@formulainu $FINU #1 Trusted #brandtoken 🏁🔥🏆🔥🏁\n\nTrusted more then $TSUKA $SHIB $KIBA  and $FLOKI\n\nDATA DOES NOT LIE… https://t.co/kYbNEJ29UL",
+        "display_text_range": [
+            12,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": 1615406423466446849,
+        "in_reply_to_status_id_str": "1615406423466446849",
+        "in_reply_to_user_id": 1583601594729316352,
+        "in_reply_to_user_id_str": "1583601594729316352",
+        "in_reply_to_screen_name": "formulainu",
+        "user": {
+            "id": 1384626262849720321,
+            "id_str": "1384626262849720321",
+            "name": "Ghost Dawg",
+            "screen_name": "6hostDawg",
+            "location": null,
+            "url": null,
+            "description": "#Crypto #Degen #NFT Collector #p2e #Gamer #Streamer $FINU Ambassador #Ethereum Developer",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 687,
+            "friends_count": 918,
+            "listed_count": 5,
+            "favourites_count": 5851,
+            "statuses_count": 7204,
+            "created_at": "Tue Apr 20 21:53:32 +0000 2021",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1611476669327630341/1i7ABI3F_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1611476669327630341/1i7ABI3F_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1384626262849720321/1672886432",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "@formulainu $FINU #1 Trusted #brandtoken 🏁🔥🏆🔥🏁\n\nTrusted more then $TSUKA $SHIB $KIBA  and $FLOKI\n\nDATA DOES NOT LIE!\n\n#Racing #Crypto #Motorsport #BrandCoin  #BrandToken #1000x #1000xGems $SHIB $DOGE $FLOKI $FINU #LFR https://t.co/8UCHpIJm0x",
+            "display_text_range": [
+                12,
+                217
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "brandtoken",
+                        "indices": [
+                            29,
+                            40
+                        ]
+                    },
+                    {
+                        "text": "Racing",
+                        "indices": [
+                            118,
+                            125
+                        ]
+                    },
+                    {
+                        "text": "Crypto",
+                        "indices": [
+                            126,
+                            133
+                        ]
+                    },
+                    {
+                        "text": "Motorsport",
+                        "indices": [
+                            134,
+                            145
+                        ]
+                    },
+                    {
+                        "text": "BrandCoin",
+                        "indices": [
+                            146,
+                            156
+                        ]
+                    },
+                    {
+                        "text": "BrandToken",
+                        "indices": [
+                            158,
+                            169
+                        ]
+                    },
+                    {
+                        "text": "1000x",
+                        "indices": [
+                            170,
+                            176
+                        ]
+                    },
+                    {
+                        "text": "1000xGems",
+                        "indices": [
+                            177,
+                            187
+                        ]
+                    },
+                    {
+                        "text": "LFR",
+                        "indices": [
+                            213,
+                            217
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "formulainu",
+                        "name": "Formula Inu || racing X crypto",
+                        "id": 1583601594729316352,
+                        "id_str": "1583601594729316352",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    }
+                ],
+                "symbols": [
+                    {
+                        "text": "FINU",
+                        "indices": [
+                            12,
+                            17
+                        ]
+                    },
+                    {
+                        "text": "TSUKA",
+                        "indices": [
+                            66,
+                            72
+                        ]
+                    },
+                    {
+                        "text": "SHIB",
+                        "indices": [
+                            73,
+                            78
+                        ]
+                    },
+                    {
+                        "text": "KIBA",
+                        "indices": [
+                            79,
+                            84
+                        ]
+                    },
+                    {
+                        "text": "FLOKI",
+                        "indices": [
+                            90,
+                            96
+                        ]
+                    },
+                    {
+                        "text": "SHIB",
+                        "indices": [
+                            188,
+                            193
+                        ]
+                    },
+                    {
+                        "text": "DOGE",
+                        "indices": [
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "text": "FLOKI",
+                        "indices": [
+                            200,
+                            206
+                        ]
+                    },
+                    {
+                        "text": "FINU",
+                        "indices": [
+                            207,
+                            212
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1615408844502634502,
+                        "id_str": "1615408844502634502",
+                        "indices": [
+                            218,
+                            241
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmsVyQeakAYZtMr.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmsVyQeakAYZtMr.jpg",
+                        "url": "https://t.co/8UCHpIJm0x",
+                        "display_url": "pic.twitter.com/8UCHpIJm0x",
+                        "expanded_url": "https://twitter.com/6hostDawg/status/1615408997691174913/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 420,
+                                "h": 512,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 420,
+                                "h": 512,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 420,
+                                "h": 512,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615408844502634502,
+                        "id_str": "1615408844502634502",
+                        "indices": [
+                            218,
+                            241
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmsVyQeakAYZtMr.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmsVyQeakAYZtMr.jpg",
+                        "url": "https://t.co/8UCHpIJm0x",
+                        "display_url": "pic.twitter.com/8UCHpIJm0x",
+                        "expanded_url": "https://twitter.com/6hostDawg/status/1615408997691174913/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 420,
+                                "h": 512,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 420,
+                                "h": 512,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 420,
+                                "h": 512,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 11,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "brandtoken",
+                    "indices": [
+                        29,
+                        40
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/kYbNEJ29UL",
+                    "expanded_url": "https://twitter.com/i/web/status/1615408997691174913",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "formulainu",
+                    "name": "Formula Inu || racing X crypto",
+                    "id": 1583601594729316352,
+                    "id_str": "1583601594729316352",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": [
+                {
+                    "text": "FINU",
+                    "indices": [
+                        12,
+                        17
+                    ]
+                },
+                {
+                    "text": "TSUKA",
+                    "indices": [
+                        66,
+                        72
+                    ]
+                },
+                {
+                    "text": "SHIB",
+                    "indices": [
+                        73,
+                        78
+                    ]
+                },
+                {
+                    "text": "KIBA",
+                    "indices": [
+                        79,
+                        84
+                    ]
+                },
+                {
+                    "text": "FLOKI",
+                    "indices": [
+                        90,
+                        96
+                    ]
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "brandtoken",
+                "indices": [
+                    44,
+                    55
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "6hostDawg",
+                "name": "Ghost Dawg",
+                "id": 1384626262849720321,
+                "id_str": "1384626262849720321",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "formulainu",
+                "name": "Formula Inu || racing X crypto",
+                "id": 1583601594729316352,
+                "id_str": "1583601594729316352",
+                "indices": [
+                    15,
+                    26
+                ]
+            }
+        ],
+        "symbols": [
+            {
+                "text": "FINU",
+                "indices": [
+                    27,
+                    32
+                ]
+            },
+            {
+                "text": "TSUKA",
+                "indices": [
+                    81,
+                    87
+                ]
+            },
+            {
+                "text": "SHIB",
+                "indices": [
+                    88,
+                    93
+                ]
+            },
+            {
+                "text": "KIBA",
+                "indices": [
+                    94,
+                    99
+                ]
+            },
+            {
+                "text": "FLOKI",
+                "indices": [
+                    105,
+                    111
+                ]
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023864517"
+}

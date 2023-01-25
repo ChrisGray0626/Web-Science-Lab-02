@@ -1,0 +1,527 @@
+{
+    "created_at": "Wed Jan 18 06:37:47 +0000 2023",
+    "id": 1615599315128561664,
+    "id_str": "1615599315128561664",
+    "text": "RT @mymusicianRosie: sometimes we need to use our brain 😅\n\nvery lowkey to have billboard ad at 5th Avenue New York 😊, that's very impactles…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1595672252456243200,
+        "id_str": "1595672252456243200",
+        "name": "mabaerosie",
+        "screen_name": "mabaerosie11",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 5,
+        "friends_count": 62,
+        "listed_count": 0,
+        "favourites_count": 2977,
+        "statuses_count": 1416,
+        "created_at": "Thu Nov 24 06:55:01 +0000 2022",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1614936362012258305/argzKogB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1614936362012258305/argzKogB_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jan 18 04:06:32 +0000 2023",
+        "id": 1615561250670538753,
+        "id_str": "1615561250670538753",
+        "text": "sometimes we need to use our brain 😅\n\nvery lowkey to have billboard ad at 5th Avenue New York 😊, that's very impact… https://t.co/DEOsLfOnY0",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1311670244352552960,
+            "id_str": "1311670244352552960",
+            "name": "g",
+            "screen_name": "mymusicianRosie",
+            "location": null,
+            "url": null,
+            "description": "-R-oseanne ✨️🤭",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 1108,
+            "friends_count": 776,
+            "listed_count": 8,
+            "favourites_count": 100558,
+            "statuses_count": 57604,
+            "created_at": "Thu Oct 01 14:12:25 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1592335893427539968/zubWZLNo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1592335893427539968/zubWZLNo_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1311670244352552960/1661179582",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1615436855566032904,
+        "quoted_status_id_str": "1615436855566032904",
+        "quoted_status": {
+            "created_at": "Tue Jan 17 19:52:14 +0000 2023",
+            "id": 1615436855566032904,
+            "id_str": "1615436855566032904",
+            "text": "@yslxroses Girlie got like 20 campaign but still impactless🤣",
+            "display_text_range": [
+                11,
+                60
+            ],
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": 1615422680051683335,
+            "in_reply_to_status_id_str": "1615422680051683335",
+            "in_reply_to_user_id": 1533258925659013120,
+            "in_reply_to_user_id_str": "1533258925659013120",
+            "in_reply_to_screen_name": "yslxroses",
+            "user": {
+                "id": 1551282162296659969,
+                "id_str": "1551282162296659969",
+                "name": "sooyas",
+                "screen_name": "sooyaschu1",
+                "location": null,
+                "url": null,
+                "description": "JISOO",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "verified_type": "blue",
+                "followers_count": 218,
+                "friends_count": 174,
+                "listed_count": 1,
+                "favourites_count": 113046,
+                "statuses_count": 5068,
+                "created_at": "Sun Jul 24 19:04:42 +0000 2022",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1614956530255765506/EQguU-KJ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1614956530255765506/EQguU-KJ_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1551282162296659969/1659652369",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 30,
+            "reply_count": 15,
+            "retweet_count": 6,
+            "favorite_count": 61,
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "yslxroses",
+                        "name": "🥝",
+                        "id": 1533258925659013120,
+                        "id_str": "1533258925659013120",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/2sSrzZqEcV",
+            "expanded": "https://twitter.com/sooyaschu1/status/1615436855566032904",
+            "display": "twitter.com/sooyaschu1/sta…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "sometimes we need to use our brain 😅\n\nvery lowkey to have billboard ad at 5th Avenue New York 😊, that's very impactless i think 😅\n\nhttps://t.co/JvF7Pw3xzg",
+            "display_text_range": [
+                0,
+                154
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1397028755483340802,
+                        "id_str": "1397028755483340802",
+                        "indices": [
+                            131,
+                            154
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1397028755483340802/pu/img/HnMt41trKn2N6lIV.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1397028755483340802/pu/img/HnMt41trKn2N6lIV.jpg",
+                        "url": "https://t.co/JvF7Pw3xzg",
+                        "display_url": "pic.twitter.com/JvF7Pw3xzg",
+                        "expanded_url": "https://twitter.com/Roseanne_UK/status/1397028818565611522/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                39,
+                                64
+                            ],
+                            "duration_millis": 9450,
+                            "variants": [
+                                {
+                                    "bitrate": 950000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1397028755483340802/pu/vid/480x786/mBh9Wd14AyPTos6F.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1397028755483340802/pu/vid/720x1180/hSjnjkHxnTCQOCb3.mp4?tag=12"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1397028755483340802/pu/pl/yIyclrlEQMt4D_CD.m3u8?tag=12&container=fmp4"
+                                },
+                                {
+                                    "bitrate": 632000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1397028755483340802/pu/vid/320x524/4u3bhXy6BeCCJFqF.mp4?tag=12"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 414,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 780,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 731,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1397028818565611522,
+                        "source_status_id_str": "1397028818565611522",
+                        "source_user_id": 1354122965357629440,
+                        "source_user_id_str": "1354122965357629440"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1397028755483340802,
+                        "id_str": "1397028755483340802",
+                        "indices": [
+                            131,
+                            154
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1397028755483340802/pu/img/HnMt41trKn2N6lIV.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1397028755483340802/pu/img/HnMt41trKn2N6lIV.jpg",
+                        "url": "https://t.co/JvF7Pw3xzg",
+                        "display_url": "pic.twitter.com/JvF7Pw3xzg",
+                        "expanded_url": "https://twitter.com/Roseanne_UK/status/1397028818565611522/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                39,
+                                64
+                            ],
+                            "duration_millis": 9450,
+                            "variants": [
+                                {
+                                    "bitrate": 950000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1397028755483340802/pu/vid/480x786/mBh9Wd14AyPTos6F.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1397028755483340802/pu/vid/720x1180/hSjnjkHxnTCQOCb3.mp4?tag=12"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1397028755483340802/pu/pl/yIyclrlEQMt4D_CD.m3u8?tag=12&container=fmp4"
+                                },
+                                {
+                                    "bitrate": 632000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1397028755483340802/pu/vid/320x524/4u3bhXy6BeCCJFqF.mp4?tag=12"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 414,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 780,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 731,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1397028818565611522,
+                        "source_status_id_str": "1397028818565611522",
+                        "source_user_id": 1354122965357629440,
+                        "source_user_id_str": "1354122965357629440"
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 6,
+        "favorite_count": 73,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/DEOsLfOnY0",
+                    "expanded_url": "https://twitter.com/i/web/status/1615561250670538753",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1615436855566032904,
+    "quoted_status_id_str": "1615436855566032904",
+    "quoted_status": {
+        "created_at": "Tue Jan 17 19:52:14 +0000 2023",
+        "id": 1615436855566032904,
+        "id_str": "1615436855566032904",
+        "text": "@yslxroses Girlie got like 20 campaign but still impactless🤣",
+        "display_text_range": [
+            11,
+            60
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 1615422680051683335,
+        "in_reply_to_status_id_str": "1615422680051683335",
+        "in_reply_to_user_id": 1533258925659013120,
+        "in_reply_to_user_id_str": "1533258925659013120",
+        "in_reply_to_screen_name": "yslxroses",
+        "user": {
+            "id": 1551282162296659969,
+            "id_str": "1551282162296659969",
+            "name": "sooyas",
+            "screen_name": "sooyaschu1",
+            "location": null,
+            "url": null,
+            "description": "JISOO",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 218,
+            "friends_count": 174,
+            "listed_count": 1,
+            "favourites_count": 113046,
+            "statuses_count": 5068,
+            "created_at": "Sun Jul 24 19:04:42 +0000 2022",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1614956530255765506/EQguU-KJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1614956530255765506/EQguU-KJ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1551282162296659969/1659652369",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 30,
+        "reply_count": 15,
+        "retweet_count": 6,
+        "favorite_count": 61,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "yslxroses",
+                    "name": "🥝",
+                    "id": 1533258925659013120,
+                    "id_str": "1533258925659013120",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/2sSrzZqEcV",
+        "expanded": "https://twitter.com/sooyaschu1/status/1615436855566032904",
+        "display": "twitter.com/sooyaschu1/sta…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "mymusicianRosie",
+                "name": "g",
+                "id": 1311670244352552960,
+                "id_str": "1311670244352552960",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023867767"
+}

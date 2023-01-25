@@ -1,0 +1,344 @@
+{
+    "created_at": "Wed Jan 18 06:37:48 +0000 2023",
+    "id": 1615599320056700928,
+    "id_str": "1615599320056700928",
+    "text": "RT @FAO: Food loss &amp; waste isn’t just about perfectly good food not making it to our tables, or the money we waste when it gets thrown out…",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1294034721500995585,
+        "id_str": "1294034721500995585",
+        "name": "Christos T. Papadas",
+        "screen_name": "papadas_t",
+        "location": null,
+        "url": null,
+        "description": "\"You must distinguish sharply between being pro-free enterprise and being pro-business\". Milton Friedman",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 25,
+        "friends_count": 45,
+        "listed_count": 1,
+        "favourites_count": 1164,
+        "statuses_count": 2215,
+        "created_at": "Thu Aug 13 22:15:23 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294035037038551041/7KR6sEeJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294035037038551041/7KR6sEeJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1294034721500995585/1642995214",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 20:00:31 +0000 2023",
+        "id": 1615438939594133504,
+        "id_str": "1615438939594133504",
+        "text": "Food loss &amp; waste isn’t just about perfectly good food not making it to our tables, or the money we waste when it g… https://t.co/foz2gzisdb",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 19649135,
+            "id_str": "19649135",
+            "name": "Food and Agriculture Organization",
+            "screen_name": "FAO",
+            "location": "Rome, Italy",
+            "url": "https://www.fao.org",
+            "description": "Working for a sustainable world & secure #FutureofFood for all.\n\n#YearofMillets #IYM2023\n\n👉🏽@FAODG | @FAOArabic | @FAOenEspanol | @FAOenfrancais | @FAORussian",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "verified_type": "government",
+            "followers_count": 582343,
+            "friends_count": 504,
+            "listed_count": 6015,
+            "favourites_count": 7046,
+            "statuses_count": 40872,
+            "created_at": "Wed Jan 28 12:33:35 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "5191C9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "5191C9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DADEE4",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1049203953030840321/_SV-4nAk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049203953030840321/_SV-4nAk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19649135/1666010898",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Food loss &amp; waste isn’t just about perfectly good food not making it to our tables, or the money we waste when it gets thrown out instead of eaten.\n\nIt represents a waste of the land, labour, water, energy and all of the resources that went into producing food.\n\n#ClimateAction https://t.co/K2CtQhWpVk",
+            "display_text_range": [
+                0,
+                281
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ClimateAction",
+                        "indices": [
+                            267,
+                            281
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1574437480677478400,
+                        "id_str": "1574437480677478400",
+                        "indices": [
+                            282,
+                            305
+                        ],
+                        "additional_media_info": {
+                            "title": "",
+                            "description": "",
+                            "embeddable": true,
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1574437480677478400/pu/img/smF-GH0aegRZAmrJ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1574437480677478400/pu/img/smF-GH0aegRZAmrJ.jpg",
+                        "url": "https://t.co/K2CtQhWpVk",
+                        "display_url": "pic.twitter.com/K2CtQhWpVk",
+                        "expanded_url": "https://twitter.com/FAO/status/1615438939594133504/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                1,
+                                1
+                            ],
+                            "duration_millis": 60040,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1574437480677478400/pu/pl/ekwKxzGpTqK-yxqU.m3u8?tag=12&container=fmp4"
+                                },
+                                {
+                                    "bitrate": 432000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1574437480677478400/pu/vid/320x320/wXsCJ96bW578d67S.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 1280000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1574437480677478400/pu/vid/720x720/_kHL74xn7_WIua8s.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1574437480677478400/pu/vid/540x540/EViMnwkDYdqgSHbY.mp4?tag=12"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1574437480677478400,
+                        "id_str": "1574437480677478400",
+                        "indices": [
+                            282,
+                            305
+                        ],
+                        "additional_media_info": {
+                            "title": "",
+                            "description": "",
+                            "embeddable": true,
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1574437480677478400/pu/img/smF-GH0aegRZAmrJ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1574437480677478400/pu/img/smF-GH0aegRZAmrJ.jpg",
+                        "url": "https://t.co/K2CtQhWpVk",
+                        "display_url": "pic.twitter.com/K2CtQhWpVk",
+                        "expanded_url": "https://twitter.com/FAO/status/1615438939594133504/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                1,
+                                1
+                            ],
+                            "duration_millis": 60040,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1574437480677478400/pu/pl/ekwKxzGpTqK-yxqU.m3u8?tag=12&container=fmp4"
+                                },
+                                {
+                                    "bitrate": 432000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1574437480677478400/pu/vid/320x320/wXsCJ96bW578d67S.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 1280000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1574437480677478400/pu/vid/720x720/_kHL74xn7_WIua8s.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1574437480677478400/pu/vid/540x540/EViMnwkDYdqgSHbY.mp4?tag=12"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 22,
+        "favorite_count": 48,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/foz2gzisdb",
+                    "expanded_url": "https://twitter.com/i/web/status/1615438939594133504",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        121,
+                        144
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "FAO",
+                "name": "Food and Agriculture Organization",
+                "id": 19649135,
+                "id_str": "19649135",
+                "indices": [
+                    3,
+                    7
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023868942"
+}

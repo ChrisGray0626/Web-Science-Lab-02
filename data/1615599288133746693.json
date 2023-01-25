@@ -1,0 +1,267 @@
+{
+    "created_at": "Wed Jan 18 06:37:41 +0000 2023",
+    "id": 1615599288133746693,
+    "id_str": "1615599288133746693",
+    "text": "RT @PeterObi: I briefly dropped by at the London Stock Exchange yesterday afternoon; I had exchange of views with senior officials towards…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 755801049903104000,
+        "id_str": "755801049903104000",
+        "name": "W£STHOOD",
+        "screen_name": "iampeterpio",
+        "location": "W£STHOOD HQ",
+        "url": "https://audiomack.com/song/skcaasie/temple-run",
+        "description": "BLACK BUTTER 🌚",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 746,
+        "friends_count": 471,
+        "listed_count": 2,
+        "favourites_count": 730,
+        "statuses_count": 113497,
+        "created_at": "Wed Jul 20 16:26:27 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1543718643946627074/6WepWURo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1543718643946627074/6WepWURo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/755801049903104000/1649068609",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 13:37:34 +0000 2023",
+        "id": 1615342567251378178,
+        "id_str": "1615342567251378178",
+        "text": "I briefly dropped by at the London Stock Exchange yesterday afternoon; I had exchange of views with senior official… https://t.co/6vF3H37TFp",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1050779471731707904,
+            "id_str": "1050779471731707904",
+            "name": "Peter Obi",
+            "screen_name": "PeterObi",
+            "location": "Nigeria",
+            "url": "http://obidatticampaign.com",
+            "description": "Former Governor, Anambra State. LP Presidential Candidate, 2023. Tweets by him are signed -PO.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "verified_type": "blue",
+            "followers_count": 2797497,
+            "friends_count": 65,
+            "listed_count": 534,
+            "favourites_count": 209,
+            "statuses_count": 2195,
+            "created_at": "Fri Oct 12 16:05:23 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1050783097934020608/2_bhBolN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050783097934020608/2_bhBolN_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "I briefly dropped by at the London Stock Exchange yesterday afternoon; I had exchange of views with senior officials towards a strategic financial alliance with the Exchange. We continue to think of Nigeria's short, medium and long term national interest goals. -PO https://t.co/7Odd0Psp5M",
+            "display_text_range": [
+                0,
+                265
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615342557633945601,
+                        "id_str": "1615342557633945601",
+                        "indices": [
+                            266,
+                            289
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmrZf2pXoAEuYqc.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmrZf2pXoAEuYqc.jpg",
+                        "url": "https://t.co/7Odd0Psp5M",
+                        "display_url": "pic.twitter.com/7Odd0Psp5M",
+                        "expanded_url": "https://twitter.com/PeterObi/status/1615342567251378178/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 557,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 557,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 370,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615342557633945601,
+                        "id_str": "1615342557633945601",
+                        "indices": [
+                            266,
+                            289
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmrZf2pXoAEuYqc.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmrZf2pXoAEuYqc.jpg",
+                        "url": "https://t.co/7Odd0Psp5M",
+                        "display_url": "pic.twitter.com/7Odd0Psp5M",
+                        "expanded_url": "https://twitter.com/PeterObi/status/1615342567251378178/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 557,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 557,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 370,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 140,
+        "reply_count": 616,
+        "retweet_count": 4851,
+        "favorite_count": 17733,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/6vF3H37TFp",
+                    "expanded_url": "https://twitter.com/i/web/status/1615342567251378178",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "PeterObi",
+                "name": "Peter Obi",
+                "id": 1050779471731707904,
+                "id_str": "1050779471731707904",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023861331"
+}

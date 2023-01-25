@@ -1,0 +1,779 @@
+{
+    "created_at": "Wed Jan 18 06:37:48 +0000 2023",
+    "id": 1615599316185370632,
+    "id_str": "1615599316185370632",
+    "text": "RT @RealLoriSpencer: Can’t wait to finally meet the great @GeorgeGalloway tomorrow. He’s been a hero of mine for a quarter century. \n\nThis…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1372954498562396162,
+        "id_str": "1372954498562396162",
+        "name": "Anthony",
+        "screen_name": "AnthonycE333",
+        "location": null,
+        "url": null,
+        "description": "The viewpoints are my own, who reads diverse posts/articles/newsfeeds/videos/news-posts/other views and summarises in an obscure way.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "verified_type": "blue",
+        "followers_count": 223,
+        "friends_count": 127,
+        "listed_count": 1,
+        "favourites_count": 25318,
+        "statuses_count": 20219,
+        "created_at": "Fri Mar 19 16:54:13 +0000 2021",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1542912609762131970/TZhbCXMv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1542912609762131970/TZhbCXMv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1372954498562396162/1620187649",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jan 17 23:53:09 +0000 2023",
+        "id": 1615497483555143683,
+        "id_str": "1615497483555143683",
+        "text": "Can’t wait to finally meet the great @GeorgeGalloway tomorrow. He’s been a hero of mine for a quarter century. \n\nTh… https://t.co/v0FBztm9Y4",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 804521838281826304,
+            "id_str": "804521838281826304",
+            "name": "Lori Spencer",
+            "screen_name": "RealLoriSpencer",
+            "location": "USA",
+            "url": "https://LoriSpencer.Wordpress.com",
+            "description": "Independent journalist. #JFK historian. Progressive libertarian. Populist. Anti-war. #FreeAssange",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 5081,
+            "friends_count": 5001,
+            "listed_count": 72,
+            "favourites_count": 66556,
+            "statuses_count": 51347,
+            "created_at": "Fri Dec 02 03:05:28 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1577198489070600192/GxpXwbSj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1577198489070600192/GxpXwbSj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/804521838281826304/1673779060",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1615404446149754880,
+        "quoted_status_id_str": "1615404446149754880",
+        "quoted_status": {
+            "created_at": "Tue Jan 17 17:43:27 +0000 2023",
+            "id": 1615404446149754880,
+            "id_str": "1615404446149754880",
+            "text": "#WEDNESDAY Join George for The Midweek Mother of All Talkshows! \n\nWith guests @RealLoriSpencer and @kgosztola \n\nWat… https://t.co/DDPTXEv0m4",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1155475035123081217,
+                "id_str": "1155475035123081217",
+                "name": "The Mother of All Talkshows with George Galloway",
+                "screen_name": "MoatsTV",
+                "location": "LONDON",
+                "url": "http://moats.tv/donate",
+                "description": "The 1 million+ audience show every Sunday 7pm | Wednesday 9pm UK with @georgegalloway E: onair@moats.tv UK 0808 196 5522 USA +1 844 944 3344",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "verified_type": "blue",
+                "followers_count": 25385,
+                "friends_count": 456,
+                "listed_count": 76,
+                "favourites_count": 1743,
+                "statuses_count": 5678,
+                "created_at": "Sun Jul 28 13:48:10 +0000 2019",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1571243219844743170/MxFXT-OL_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1571243219844743170/MxFXT-OL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1155475035123081217/1663448341",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "#WEDNESDAY Join George for The Midweek Mother of All Talkshows! \n\nWith guests @RealLoriSpencer and @kgosztola \n\nWatch LIVE on all platforms\n\n🎙MIDWEEK #MOATS \nEVERY WEDNESDAY \n🇬🇧 9PM GMT LONDON \n🇺🇸 PT 1PM - ET 4PM \n\n#UkraineRussiaWar #USpolitics #Biden #Assange https://t.co/yv0tPjNMFQ",
+                "display_text_range": [
+                    0,
+                    260
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "WEDNESDAY",
+                            "indices": [
+                                0,
+                                10
+                            ]
+                        },
+                        {
+                            "text": "MOATS",
+                            "indices": [
+                                150,
+                                156
+                            ]
+                        },
+                        {
+                            "text": "UkraineRussiaWar",
+                            "indices": [
+                                215,
+                                232
+                            ]
+                        },
+                        {
+                            "text": "USpolitics",
+                            "indices": [
+                                233,
+                                244
+                            ]
+                        },
+                        {
+                            "text": "Biden",
+                            "indices": [
+                                245,
+                                251
+                            ]
+                        },
+                        {
+                            "text": "Assange",
+                            "indices": [
+                                252,
+                                260
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "RealLoriSpencer",
+                            "name": "Lori Spencer",
+                            "id": 804521838281826304,
+                            "id_str": "804521838281826304",
+                            "indices": [
+                                78,
+                                94
+                            ]
+                        },
+                        {
+                            "screen_name": "kgosztola",
+                            "name": "Kevin Gosztola",
+                            "id": 15808218,
+                            "id_str": "15808218",
+                            "indices": [
+                                99,
+                                109
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1615404435751968768,
+                            "id_str": "1615404435751968768",
+                            "indices": [
+                                261,
+                                284
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FmsRxomWIAAWsbk.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FmsRxomWIAAWsbk.jpg",
+                            "url": "https://t.co/yv0tPjNMFQ",
+                            "display_url": "pic.twitter.com/yv0tPjNMFQ",
+                            "expanded_url": "https://twitter.com/MoatsTV/status/1615404446149754880/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1615404435751968768,
+                            "id_str": "1615404435751968768",
+                            "indices": [
+                                261,
+                                284
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FmsRxomWIAAWsbk.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FmsRxomWIAAWsbk.jpg",
+                            "url": "https://t.co/yv0tPjNMFQ",
+                            "display_url": "pic.twitter.com/yv0tPjNMFQ",
+                            "expanded_url": "https://twitter.com/MoatsTV/status/1615404446149754880/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 9,
+            "favorite_count": 20,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "WEDNESDAY",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/DDPTXEv0m4",
+                        "expanded_url": "https://twitter.com/i/web/status/1615404446149754880",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "RealLoriSpencer",
+                        "name": "Lori Spencer",
+                        "id": 804521838281826304,
+                        "id_str": "804521838281826304",
+                        "indices": [
+                            78,
+                            94
+                        ]
+                    },
+                    {
+                        "screen_name": "kgosztola",
+                        "name": "Kevin Gosztola",
+                        "id": 15808218,
+                        "id_str": "15808218",
+                        "indices": [
+                            99,
+                            109
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/VzfigsLXtg",
+            "expanded": "https://twitter.com/moatstv/status/1615404446149754880",
+            "display": "twitter.com/moatstv/status…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Can’t wait to finally meet the great @GeorgeGalloway tomorrow. He’s been a hero of mine for a quarter century. \n\nThis will be a great conversation!",
+            "display_text_range": [
+                0,
+                147
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "georgegalloway",
+                        "name": "George Galloway",
+                        "id": 15484198,
+                        "id_str": "15484198",
+                        "indices": [
+                            37,
+                            52
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 17,
+        "favorite_count": 44,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/v0FBztm9Y4",
+                    "expanded_url": "https://twitter.com/i/web/status/1615497483555143683",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "georgegalloway",
+                    "name": "George Galloway",
+                    "id": 15484198,
+                    "id_str": "15484198",
+                    "indices": [
+                        37,
+                        52
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1615404446149754880,
+    "quoted_status_id_str": "1615404446149754880",
+    "quoted_status": {
+        "created_at": "Tue Jan 17 17:43:27 +0000 2023",
+        "id": 1615404446149754880,
+        "id_str": "1615404446149754880",
+        "text": "#WEDNESDAY Join George for The Midweek Mother of All Talkshows! \n\nWith guests @RealLoriSpencer and @kgosztola \n\nWat… https://t.co/DDPTXEv0m4",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1155475035123081217,
+            "id_str": "1155475035123081217",
+            "name": "The Mother of All Talkshows with George Galloway",
+            "screen_name": "MoatsTV",
+            "location": "LONDON",
+            "url": "http://moats.tv/donate",
+            "description": "The 1 million+ audience show every Sunday 7pm | Wednesday 9pm UK with @georgegalloway E: onair@moats.tv UK 0808 196 5522 USA +1 844 944 3344",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "verified_type": "blue",
+            "followers_count": 25385,
+            "friends_count": 456,
+            "listed_count": 76,
+            "favourites_count": 1743,
+            "statuses_count": 5678,
+            "created_at": "Sun Jul 28 13:48:10 +0000 2019",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1571243219844743170/MxFXT-OL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1571243219844743170/MxFXT-OL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1155475035123081217/1663448341",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "#WEDNESDAY Join George for The Midweek Mother of All Talkshows! \n\nWith guests @RealLoriSpencer and @kgosztola \n\nWatch LIVE on all platforms\n\n🎙MIDWEEK #MOATS \nEVERY WEDNESDAY \n🇬🇧 9PM GMT LONDON \n🇺🇸 PT 1PM - ET 4PM \n\n#UkraineRussiaWar #USpolitics #Biden #Assange https://t.co/yv0tPjNMFQ",
+            "display_text_range": [
+                0,
+                260
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "WEDNESDAY",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    },
+                    {
+                        "text": "MOATS",
+                        "indices": [
+                            150,
+                            156
+                        ]
+                    },
+                    {
+                        "text": "UkraineRussiaWar",
+                        "indices": [
+                            215,
+                            232
+                        ]
+                    },
+                    {
+                        "text": "USpolitics",
+                        "indices": [
+                            233,
+                            244
+                        ]
+                    },
+                    {
+                        "text": "Biden",
+                        "indices": [
+                            245,
+                            251
+                        ]
+                    },
+                    {
+                        "text": "Assange",
+                        "indices": [
+                            252,
+                            260
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "RealLoriSpencer",
+                        "name": "Lori Spencer",
+                        "id": 804521838281826304,
+                        "id_str": "804521838281826304",
+                        "indices": [
+                            78,
+                            94
+                        ]
+                    },
+                    {
+                        "screen_name": "kgosztola",
+                        "name": "Kevin Gosztola",
+                        "id": 15808218,
+                        "id_str": "15808218",
+                        "indices": [
+                            99,
+                            109
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1615404435751968768,
+                        "id_str": "1615404435751968768",
+                        "indices": [
+                            261,
+                            284
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmsRxomWIAAWsbk.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmsRxomWIAAWsbk.jpg",
+                        "url": "https://t.co/yv0tPjNMFQ",
+                        "display_url": "pic.twitter.com/yv0tPjNMFQ",
+                        "expanded_url": "https://twitter.com/MoatsTV/status/1615404446149754880/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1615404435751968768,
+                        "id_str": "1615404435751968768",
+                        "indices": [
+                            261,
+                            284
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FmsRxomWIAAWsbk.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FmsRxomWIAAWsbk.jpg",
+                        "url": "https://t.co/yv0tPjNMFQ",
+                        "display_url": "pic.twitter.com/yv0tPjNMFQ",
+                        "expanded_url": "https://twitter.com/MoatsTV/status/1615404446149754880/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 9,
+        "favorite_count": 20,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "WEDNESDAY",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/DDPTXEv0m4",
+                    "expanded_url": "https://twitter.com/i/web/status/1615404446149754880",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "RealLoriSpencer",
+                    "name": "Lori Spencer",
+                    "id": 804521838281826304,
+                    "id_str": "804521838281826304",
+                    "indices": [
+                        78,
+                        94
+                    ]
+                },
+                {
+                    "screen_name": "kgosztola",
+                    "name": "Kevin Gosztola",
+                    "id": 15808218,
+                    "id_str": "15808218",
+                    "indices": [
+                        99,
+                        109
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/VzfigsLXtg",
+        "expanded": "https://twitter.com/moatstv/status/1615404446149754880",
+        "display": "twitter.com/moatstv/status…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "RealLoriSpencer",
+                "name": "Lori Spencer",
+                "id": 804521838281826304,
+                "id_str": "804521838281826304",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "georgegalloway",
+                "name": "George Galloway",
+                "id": 15484198,
+                "id_str": "15484198",
+                "indices": [
+                    58,
+                    73
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1674023868019"
+}
