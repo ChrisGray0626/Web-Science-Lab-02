@@ -78,21 +78,21 @@ def cal_profile_image_weight(default_profile_image):
     return profile_image_weight
 
 
-def cal_user_weight(json_user_data):
+def cal_user_weight(user_data):
     # Calculate description weight
-    description_text = json_user_data["description"]
+    description_text = user_data["description"]
     description_weight = cal_description_weight(description_text)
     # Calculate account age weight
-    created_at = json_user_data["created_at"]
+    created_at = user_data["created_at"]
     account_age_weight = cal_account_age_weight(created_at)
     # Calculate follower weight
-    followers_count = json_user_data["followers_count"]
+    followers_count = user_data["followers_count"]
     follower_weight = cal_followers_weight(followers_count)
     # Calculate verified weight
-    verified = json_user_data["verified"]
+    verified = user_data["verified"]
     verified_weight = cal_verified_weight(verified)
     # Calculate profile image weight
-    default_profile_image = json_user_data["default_profile_image"]
+    default_profile_image = user_data["default_profile_image"]
     profile_image_weight = cal_profile_image_weight(default_profile_image)
     # Aggregate weights
     aggregate_weight = (
