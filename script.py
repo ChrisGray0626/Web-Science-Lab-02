@@ -79,5 +79,3 @@ if __name__ == '__main__':
         for key in token_weights.keys():
             token_weights[key] /= magnitude
     print("token_weights: ", token_weights)
-
-
