@@ -6,13 +6,13 @@ def load_jsons(dir_path):
     jsons = []
     for file in os.listdir(dir_path):
         if file.endswith(".json"):
-            jsons.append(json.load(open(os.path.join(dir_path, file))))
+            jsons.append(json.load(open(os.path.join(dir_path, file), encoding='UTF-8')))
     return jsons
 
 
 def load_txt(file_path):
     lines = []
-    with open(file_path, 'r', encoding='utf-8') as f:
+    with open(file_path, 'r', encoding='UTF-8') as f:
         for line in f.readlines():
             # Remove blank space
             if '\n' == line:

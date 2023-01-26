@@ -35,10 +35,9 @@ def token_clean(token):
     return token
 
 
-if __name__ == '__main__':
+def streaming():
     stop_word_file_path = "stopwordFile.txt"
     stop_words = util.load_txt(stop_word_file_path)
-
     dir_path = "data"
     jsons = util.load_jsons(dir_path)
     token_weights = {}
@@ -64,10 +63,11 @@ if __name__ == '__main__':
         # print("tokens: ", tokens)
         # Assign weights to tokens
         tokens = set(tokens)
+        print(tokens)
         token_sum = len(tokens)
         for token in tokens:
             if token not in token_weights:
-                token_weights[token] = 1 / token_sum
+                token_weights[token] = 1 / math.sqrt(token_sum) / (i + 2)
             else:
                 token_weights[token] *= (i + 1) / (i + 2)
                 token_weights[token] += 1 / math.sqrt(token_sum) / (i + 2)
@@ -78,4 +78,22 @@ if __name__ == '__main__':
         magnitude = math.sqrt(magnitude)
         for key in token_weights.keys():
             token_weights[key] /= magnitude
-    print("token_weights: ", token_weights)
+    # sorted_weights = sorted(token_weights.items(), key=lambda d: d[1], reverse=False)
+    # print("sorted_weights: ", sorted_weights)
+    return token_weights
+
+
+def weights_calc():
+    return
+
+
+if __name__ == '__main__':
+    # stream_weights = streaming()
+    HQ_file_path = "./data2/hqfile.csv"
+    HQ_lines = util.load_txt(HQ_file_path)
+    for line in HQ_lines[1:]:
+        lst = eval(line.split(",", 1)[1])
+        print(lst)
+    HQ_weights = 1
+    BG_weights = 1
+    LQ_weights = 1
