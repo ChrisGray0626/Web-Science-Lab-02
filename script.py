@@ -1,5 +1,6 @@
+import math
 import string
-
+import numpy as np
 import util
 
 
@@ -17,6 +18,7 @@ def token_clean(token):
     if token.startswith('#') or token.startswith('@') or token.startswith('$'):
         token = token.replace(":", "")
         token = token.replace(".", "")
+        token = token.replace(",", "")
         return token
     # Remove URL
     if token.startswith('http') or token.startswith('&amp'):
@@ -39,13 +41,15 @@ if __name__ == '__main__':
 
     dir_path = "data"
     jsons = util.load_jsons(dir_path)
-    for json_data in jsons:
+    token_weights = {}
+    text_sum = len(jsons)
+    for i, json_data in enumerate(jsons):
         truncated = json_data["truncated"]
         if truncated:
             text = json_data["extended_tweet"]["full_text"]
         else:
             text = json_data["text"]
-        print(text)
+        # print("text: ", json_data["id"], text)
         text = text_clean(text)
 
         raw_tokens = text.split(" ")
@@ -57,5 +61,23 @@ if __name__ == '__main__':
             # Remove stop words
             if token.lower() not in stop_words:
                 tokens.append(token)
-        print(tokens)
-        break
+        # print("tokens: ", tokens)
+        # Assign weights to tokens
+        tokens = set(tokens)
+        token_sum = len(tokens)
+        for token in tokens:
+            if token not in token_weights:
+                token_weights[token] = 1 / token_sum
+            else:
+                token_weights[token] *= (i + 1) / (i + 2)
+                token_weights[token] += 1 / math.sqrt(token_sum) / (i + 2)
+        # Normalize weights
+        magnitude = 0
+        for value in token_weights.values():
+            magnitude += value ** 2
+        magnitude = math.sqrt(magnitude)
+        for key in token_weights.keys():
+            token_weights[key] /= magnitude
+    print("token_weights: ", token_weights)
+
+
