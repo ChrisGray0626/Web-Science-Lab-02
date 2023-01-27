@@ -63,7 +63,7 @@ def streaming():
         # print("tokens: ", tokens)
         # Assign weights to tokens
         tokens = set(tokens)
-        print(tokens)
+        # print(tokens)
         token_sum = len(tokens)
         for token in tokens:
             if token not in token_weights:
@@ -83,17 +83,5 @@ def streaming():
     return token_weights
 
 
-def weights_calc():
-    return
-
-
 if __name__ == '__main__':
-    # stream_weights = streaming()
-    HQ_file_path = "./data2/hqfile.csv"
-    HQ_lines = util.load_txt(HQ_file_path)
-    for line in HQ_lines[1:]:
-        lst = eval(line.split(",", 1)[1])
-        print(lst)
-    HQ_weights = 1
-    BG_weights = 1
-    LQ_weights = 1
+    stream_weights = streaming()
