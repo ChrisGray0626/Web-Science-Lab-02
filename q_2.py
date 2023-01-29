@@ -1,4 +1,4 @@
-import group_representation
+import credibility_model
 import util
 
 if __name__ == '__main__':
