@@ -4,7 +4,17 @@ import numpy as np
 import util
 
 
-def text_clean(text):
+def extract_text(json_data):
+    truncated = json_data["truncated"]
+    if truncated:
+        text = json_data["extended_tweet"]["full_text"]
+    else:
+        text = json_data["text"]
+
+    return text
+
+
+def clean_text(text):
     for ch in text:
         if f"'{ch}'" == ascii(ch):
             pass
@@ -14,7 +24,8 @@ def text_clean(text):
     return text
 
 
-def token_clean(token):
+def clean_token(token):
+    # Exclude #, @, $
     if token.startswith('#') or token.startswith('@') or token.startswith('$'):
         token = token.replace(":", "")
         token = token.replace(".", "")
@@ -41,29 +52,19 @@ def streaming():
     dir_path = "data"
     jsons = util.load_jsons(dir_path)
     token_weights = {}
-    text_sum = len(jsons)
     for i, json_data in enumerate(jsons):
-        truncated = json_data["truncated"]
-        if truncated:
-            text = json_data["extended_tweet"]["full_text"]
-        else:
-            text = json_data["text"]
-        # print("text: ", json_data["id"], text)
-        text = text_clean(text)
-
+        text = extract_text(json_data)
+        # Split text into tokens
         raw_tokens = text.split(" ")
         tokens = []
         for raw_token in raw_tokens:
-            token = token_clean(raw_token)
+            token = clean_token(raw_token)
             if token is None:
                 continue
             # Remove stop words
             if token.lower() not in stop_words:
                 tokens.append(token)
-        # print("tokens: ", tokens)
-        # Assign weights to tokens
         tokens = set(tokens)
-        # print(tokens)
         token_sum = len(tokens)
         for token in tokens:
             if token not in token_weights:
@@ -78,8 +79,6 @@ def streaming():
         magnitude = math.sqrt(magnitude)
         for key in token_weights.keys():
             token_weights[key] /= magnitude
-    # sorted_weights = sorted(token_weights.items(), key=lambda d: d[1], reverse=False)
-    # print("sorted_weights: ", sorted_weights)
     return token_weights
 
 

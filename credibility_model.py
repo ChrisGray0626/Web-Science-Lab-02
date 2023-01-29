@@ -7,7 +7,7 @@ listSpam = ['ebay', 'review', 'shopping', 'deal', 'sale', 'sales', 'link', 'clic
             'hiring']
 
 
-def cal_description_weight(description_text):
+def calc_description_weight(description_text):
     if description_text is None:
         return 0
     description_tokens = description_text.split(" ")
@@ -25,7 +25,7 @@ def cal_description_weight(description_text):
     return description_weight
 
 
-def cal_account_age_weight(created_at):
+def calc_account_age_weight(created_at):
     created_at = datetime.strptime(created_at, '%a %b %d %H:%M:%S %z %Y')
     now = datetime.now(timezone.utc)
     account_age = (now - created_at).days
@@ -41,7 +41,7 @@ def cal_account_age_weight(created_at):
     return account_age_weight
 
 
-def cal_followers_weight(followers_count):
+def calc_followers_weight(followers_count):
     if followers_count < 50:
         follower_weight = 0.5
     elif followers_count < 5000:
@@ -59,7 +59,7 @@ def cal_followers_weight(followers_count):
     return follower_weight
 
 
-def cal_verified_weight(verified):
+def calc_verified_weight(verified):
     if verified:
         verified_weight = 1.5
     else:
@@ -69,7 +69,7 @@ def cal_verified_weight(verified):
     return verified_weight
 
 
-def cal_profile_image_weight(default_profile_image):
+def calc_profile_image_weight(default_profile_image):
     if default_profile_image:
         profile_image_weight = 0.5
     else:
@@ -78,22 +78,22 @@ def cal_profile_image_weight(default_profile_image):
     return profile_image_weight
 
 
-def cal_user_weight(user_data):
+def calc_user_weight(user_data):
     # Calculate description weight
     description_text = user_data["description"]
-    description_weight = cal_description_weight(description_text)
+    description_weight = calc_description_weight(description_text)
     # Calculate account age weight
     created_at = user_data["created_at"]
-    account_age_weight = cal_account_age_weight(created_at)
+    account_age_weight = calc_account_age_weight(created_at)
     # Calculate follower weight
     followers_count = user_data["followers_count"]
-    follower_weight = cal_followers_weight(followers_count)
+    follower_weight = calc_followers_weight(followers_count)
     # Calculate verified weight
     verified = user_data["verified"]
-    verified_weight = cal_verified_weight(verified)
+    verified_weight = calc_verified_weight(verified)
     # Calculate profile image weight
     default_profile_image = user_data["default_profile_image"]
-    profile_image_weight = cal_profile_image_weight(default_profile_image)
+    profile_image_weight = calc_profile_image_weight(default_profile_image)
     # Aggregate weights
     aggregate_weight = (
                                description_weight + account_age_weight + follower_weight + verified_weight + profile_image_weight) / 5
