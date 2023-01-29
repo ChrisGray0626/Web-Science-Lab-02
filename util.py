@@ -22,3 +22,19 @@ def load_txt(file_path):
             lines.append(line)
 
     return lines
+
+
+def extract_text(json_data):
+    truncated = json_data["truncated"]
+    if truncated:
+        text = json_data["extended_tweet"]["full_text"]
+    else:
+        text = json_data["text"]
+
+    return text
+
+
+def extract_user(json_data):
+    user = json_data["user"]
+
+    return user

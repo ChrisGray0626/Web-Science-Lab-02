@@ -61,11 +61,11 @@ def ratio_calc(dict1, ttl1, dict2, ttl2):
 
 
 if __name__ == '__main__':
-    HQ_file_path = "./data2/hqfile.csv"
+    HQ_file_path = "data/data2/hqfile.csv"
     HQ_token_weights, tfthq = weights_calc(HQ_file_path)
-    LQ_file_path = "./data2/lqfile.csv"
+    LQ_file_path = "data/data2/lqfile.csv"
     LQ_token_weights, tftlq = weights_calc(LQ_file_path)
-    BG_file_path = "./data2/bgfile.csv"
+    BG_file_path = "data/data2/bgfile.csv"
     BG_token_weights, tftbg = weights_calc(BG_file_path)
     SHQ = ratio_calc(HQ_token_weights, tfthq, BG_token_weights, tftbg)
     SLQ = ratio_calc(LQ_token_weights, tftlq, BG_token_weights, tftbg)
