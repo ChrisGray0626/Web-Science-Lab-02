@@ -1,4 +1,7 @@
+import numpy as np
+
 import util
+import group_representation
 
 
 def calc_weight(lines):
@@ -67,3 +70,34 @@ if __name__ == '__main__':
     BG_token_weights, tftbg = calc_weight(BG_data)
     SHQ = calc_ratio(HQ_token_weights, tfthq, BG_token_weights, tftbg)
     SLQ = calc_ratio(LQ_token_weights, tftlq, BG_token_weights, tftbg)
+
+    data_dir_path = "data/data1"
+    jsons = util.load_jsons(data_dir_path)
+    texts = []
+    id_lst = []
+    for json_data in jsons:
+        text = util.extract_text(json_data)
+        texts.append(text)
+        id_lst.append(json_data['id_str'])
+
+    # Load stop words
+    stop_word_file_path = "data/stopwordFile.txt"
+    stop_words = util.load_txt(stop_word_file_path)
+    for i, text in enumerate(texts):
+        # Clean text
+        text = group_representation.clean_text(text)
+        # Split text into tokens
+        raw_tokens = text.split(" ")
+        news_score = 0
+        Sigma_SHQt = 1
+        Sigma_SLQt = 1
+        # Clean tokens
+        for raw_token in raw_tokens:
+            token = group_representation.clean_token(raw_token, stop_words)
+            if token is not None:
+                if token in SHQ:
+                    Sigma_SHQt += SHQ[token]
+                if token in SLQ:
+                    Sigma_SLQt += SLQ[token]
+        news_score = np.log2(Sigma_SHQt / Sigma_SLQt)
+        print("Newsworthiness for tweet " + id_lst[i] + ": " + str(news_score))
