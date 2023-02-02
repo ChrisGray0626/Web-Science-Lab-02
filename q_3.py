@@ -4,6 +4,7 @@ import util
 import group_representation
 
 
+# TODO Separate calc and load
 def calc_weight(lines):
     token_weights = {}
     total_word_num = 0
@@ -74,12 +75,12 @@ if __name__ == '__main__':
     data_dir_path = "data/data1"
     jsons = util.load_jsons(data_dir_path)
     texts = []
-    id_lst = []
+    ids = []
     for json_data in jsons:
         text = util.extract_text(json_data)
+        id = util.extract_id(json_data)
         texts.append(text)
-        id_lst.append(json_data['id_str'])
-
+        ids = util.extract_id(json_data)
     # Load stop words
     stop_word_file_path = "data/stopwordFile.txt"
     stop_words = util.load_txt(stop_word_file_path)
@@ -100,4 +101,4 @@ if __name__ == '__main__':
                 if token in SLQ:
                     Sigma_SLQt += SLQ[token]
         news_score = np.log2(Sigma_SHQt / Sigma_SLQt)
-        print("Newsworthiness for tweet " + id_lst[i] + ": " + str(news_score))
+        print("Newsworthiness for tweet " + ids[i] + ": " + str(news_score))
