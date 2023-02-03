@@ -1,6 +1,8 @@
 import json
 import os
 
+import pandas as pd
+
 
 def load_jsons(dir_path):
     jsons = []
@@ -24,13 +26,17 @@ def load_txt(file_path):
     return lines
 
 
-# TODO load_csv
+def load_csv(file_path):
+    data = pd.read_csv(file_path)
+
+    return data
 
 
 def extract_id(json_data):
     id = json_data["id_str"]
 
     return id
+
 
 def extract_text(json_data):
     truncated = json_data["truncated"]
